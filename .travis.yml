@@ -7,7 +7,6 @@ script:
 deploy:
   provider: gcs
   key_file: saferinsulin-34e45ba9ba4e.json.enc
-  edge: true
   bucket: www.saferinsulin.org
   local-dir: dist
   skip_cleanup: true
