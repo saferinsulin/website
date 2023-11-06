@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress';
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: 'Bolton Critical Care Guidelines',
+  title: 'saferinsulin.org',
   description:
     "Bolton Critical Care 'Control of Glucose in Critical Care' Guideline",
   themeConfig: {
@@ -22,6 +22,7 @@ export default defineConfig({
           { text: 'Hyperglycaemia', link: '/hyperglycaemia' },
           { text: 'Hypoglycaemia', link: '/hypoglycaemia' },
           { text: 'Drugs', link: '/drugs' },
+          { text: 'COVID-19', link: '/covid' },
         ],
       },
     ],

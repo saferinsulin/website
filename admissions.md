@@ -1,12 +1,22 @@
 # Admissions
 
+## Admission blood glucose and HbA1c
+
+::: tip
+
 The following guidance is for **all** patients admitted to critical care.
 
-## Admission blood glucose and HbA1c
+:::
 
 **All** patients should have their HBA1c checked on admission to Critical Care.
 
 **All** patients should have an admission blood glucose checked either via an ABG / VBG sample or a laboratory glucose.
+
+## Monitoring blood glucose
+
+Patients commencing enteral or parenteral feed need their blood glucose monitoring every 4-6 hours.
+
+Patients on an insulin infusion need their blood glucose monitoring as per the [hyperglycaemia](/hyperglycaemia) section of this guideline.
 
 ## Existing diabetes
 
