@@ -2,7 +2,7 @@
 
 ## Admission blood glucose and HbA1c
 
-::: tip
+::: tip Note
 
 The following guidance is for **all** patients admitted to critical care.
 

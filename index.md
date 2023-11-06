@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: Control of Glucose in Critical Care
-  tagline: JP Lomas<br>Lauren Nichol<br>Amy Glover
+  name: Control of Glucose in Bolton Critical Care
+  tagline: JP Lomas<br>Lauren Nichol<br>Amy Glover<br><small>with thanks to Rhodri Harris</small>
   # actions:
   #   - theme: brand
   #     text: Anaesthesia logbooks
