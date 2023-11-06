@@ -1,0 +1,16 @@
+{
+  "license": "MIT",
+  "name": "@saferinsulin/bolton-guidelines",
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "devDependencies": {
+    "eslint-plugin-prettier": "^5.0.1",
+    "prettier": "^3.0.3",
+    "remark": "^15.0.1",
+    "vitepress": "^1.0.0-rc.22"
+  },
+  "packageManager": "yarn@4.0.1"
+}

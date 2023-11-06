@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="452px" height="611px" viewBox="0 0 452 611" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Hypoglycaemia</title>
+    <g id="Hypoglycaemia" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" stroke="#979797" fill="#D8D8D8" x="30" y="432" width="324" height="22"></rect>
+        <text id="Yes" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="9" font-weight="normal" fill="#121145">
+            <tspan x="211" y="336">Yes</tspan>
+        </text>
+        <text id="No" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="9" font-weight="normal" fill="#121145">
+            <tspan x="100" y="370">No</tspan>
+        </text>
+        <text id="No" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="9" font-weight="normal" fill="#121145">
+            <tspan x="100" y="420">No</tspan>
+        </text>
+        <text id="Yes" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="9" font-weight="normal" fill="#121145">
+            <tspan x="211" y="388">Yes</tspan>
+        </text>
+        <text id="Administer-oral/ente" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="9" font-weight="normal" fill="#121145">
+            <tspan x="35.5" y="446">Administer oral/enteral agents as per Trust protocol and </tspan>
+            <tspan x="245.785" y="446" font-family="SourceSansPro-Bold, Source Sans Pro" font-weight="bold">urgently secure IV access</tspan>
+        </text>
+        <rect id="Rectangle" fill-opacity="0.5" fill="#D8D8D8" x="24" y="33" width="428" height="206"></rect>
+        <rect id="Rectangle" fill-opacity="0.5" fill="#D8D8D8" x="24" y="472" width="428" height="138"></rect>
+        <g id="Group" transform="translate(32, 40)">
+            <rect id="Rectangle" stroke="#1F2A4D" stroke-width="2" fill-opacity="0.503966858" fill="#E0A442" x="0" y="0" width="131" height="40"></rect>
+            <text id="Blood-glucose-&lt;-6.0" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="9" font-weight="bold" fill="#121145">
+                <tspan x="6.1635" y="17">Blood glucose &lt; 6.0 mmol/L </tspan>
+                <tspan x="116.0355" y="17" font-family="SourceSansPro-Regular, Source Sans Pro" font-weight="normal">on </tspan>
+                <tspan x="31.629" y="28" font-family="SourceSansPro-Regular, Source Sans Pro" font-weight="normal">an insulin infusion</tspan>
+            </text>
+        </g>
+        <g id="Group-2" transform="translate(173, 40)">
+            <rect id="Rectangle" stroke="#1F2A4D" stroke-width="2" fill-opacity="0.503966858" fill="#E0A442" x="0" y="0" width="131" height="40"></rect>
+            <text id="Enteral-feed-stoppin" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="9" font-weight="bold" fill="#121145">
+                <tspan x="6.9015" y="12">Enteral feed stopping </tspan>
+                <tspan x="93.2745" y="12" font-family="SourceSansPro-Regular, Source Sans Pro" font-weight="normal">for scan, </tspan>
+                <tspan x="26.13" y="23" font-family="SourceSansPro-Regular, Source Sans Pro" font-weight="normal">transfer or accidental </tspan>
+                <tspan x="40.4625" y="34" font-family="SourceSansPro-Regular, Source Sans Pro" font-weight="normal">displacement</tspan>
+            </text>
+        </g>
+        <g id="Group-2" transform="translate(314, 40)">
+            <rect id="Rectangle" stroke="#1F2A4D" stroke-width="2" fill-opacity="0.503966858" fill="#E0A442" x="0" y="0" width="131" height="40"></rect>
+            <text id="High-risk-for-hypogl" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="9" font-weight="bold" fill="#121145">
+                <tspan x="58.182" y="17">High risk for </tspan>
+                <tspan x="52.2825" y="28">hypoglycaemia</tspan>
+            </text>
+        </g>
+        <g id="Group-3" transform="translate(32, 122)">
+            <path d="M0,0 L131,0 L131,75 L0,75 Z" id="Rectangle" stroke="#1F2A4D" stroke-width="2" stroke-dasharray="2"></path>
+            <text id="Increased-vigilance" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="9" font-weight="normal" fill="#121145">
+                <tspan x="29.6845" y="19">Increased vigilance</tspan>
+                <tspan x="65.5" y="30"></tspan>
+                <tspan x="20.0365" y="41">Recheck in 30 minutes &amp; </tspan>
+                <tspan x="20.212" y="52">if &gt; 4.5 mmol/L continue </tspan>
+                <tspan x="36.421" y="63">1 hourly checks</tspan>
+            </text>
+        </g>
+        <g id="Group-3" transform="translate(173, 95)">
+            <path d="M-2.27373675e-13,0 L131,0 L131,29 L-2.27373675e-13,29 Z" id="Rectangle" stroke="#1F2A4D" stroke-width="2" stroke-dasharray="2"></path>
+            <text id="On-an-insulin-infusi" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="9" font-weight="normal" fill="#121145">
+                <tspan x="20.879" y="12">On an insulin infusion or </tspan>
+                <tspan x="23.9795" y="23">long acting s/c insulin?</tspan>
+            </text>
+        </g>
+        <g id="Group-3" transform="translate(173, 139)">
+            <path d="M-2.27373675e-13,0 L131,0 L131,95 L-2.27373675e-13,95 Z" id="Rectangle" stroke="#1F2A4D" stroke-width="2" stroke-dasharray="2"></path>
+            <text id="0-60-mins:-ensure-gl" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="9" font-weight="bold" fill="#121145">
+                <tspan x="17.2385" y="13">0-60 mins</tspan>
+                <tspan x="55.6145" y="13" font-family="SourceSansPro-Regular, Source Sans Pro" font-weight="normal">: ensure glucose </tspan>
+                <tspan x="20.231" y="24" font-family="SourceSansPro-Regular, Source Sans Pro" font-weight="normal">checked at least 1 hourly</tspan>
+                <tspan x="66.5" y="35" font-family="SourceSansPro-Regular, Source Sans Pro" font-weight="normal"></tspan>
+                <tspan x="4.4135" y="46">&gt; 60 mins</tspan>
+                <tspan x="41.6015" y="46" font-family="SourceSansPro-Regular, Source Sans Pro" font-weight="normal">: stop insulin infusion &amp; </tspan>
+                <tspan x="17.5895" y="57" font-family="SourceSansPro-Regular, Source Sans Pro" font-weight="normal">ensure glucose containing </tspan>
+                <tspan x="11.1995" y="68" font-family="SourceSansPro-Regular, Source Sans Pro" font-weight="normal">infusion (e.g. dextrose 10% or </tspan>
+                <tspan x="14.0975" y="79" font-family="SourceSansPro-Regular, Source Sans Pro" font-weight="normal">NaCl 0.45% +Dextrose 5% at </tspan>
+                <tspan x="47.9645" y="90" font-family="SourceSansPro-Regular, Source Sans Pro" font-weight="normal">100ml/hr)</tspan>
+            </text>
+        </g>
+        <g id="Group-3" transform="translate(314, 122)">
+            <path d="M-2.27373675e-13,0 L131,0 L131,95 L-2.27373675e-13,95 Z" id="Rectangle" stroke="#1F2A4D" stroke-width="2" stroke-dasharray="2"></path>
+            <text id="Diabetic-HbA1c-&gt;-7%" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="9" font-weight="normal" line-spacing="9" fill="#121145">
+                <tspan x="1" y="15">Diabetic HbA1c &gt; 7% / 53mmol/L</tspan>
+                <tspan x="66.2815" y="24.712"></tspan>
+                <tspan x="10.4365" y="33">High insulin rate &gt;8 units/hr</tspan>
+                <tspan x="66.2815" y="42.712"></tspan>
+                <tspan x="43.4575" y="51">On CVVHF</tspan>
+                <tspan x="66.2815" y="60.712"></tspan>
+                <tspan x="13.951" y="69">Neurotrauma/SAH/Stroke</tspan>
+                <tspan x="66.2815" y="78.712"></tspan>
+                <tspan x="16.399" y="87">Previous hypoglycaemia</tspan>
+            </text>
+        </g>
+        <polygon id="Path" stroke="#1F2A4D" points="96.3833999 107.678322 96.3833999 79.5709052 99.3500226 79.5709052 99.3500226 107.678322 102.847874 107.678322 98.006267 121.570905 92.8478744 107.678322"></polygon>
+        <polygon id="Path" stroke="#1F2A4D" points="378.3834 107.678322 378.3834 79.5709052 381.350023 79.5709052 381.350023 107.678322 384.847874 107.678322 380.006267 121.570905 374.847874 107.678322"></polygon>
+        <polygon id="Path" stroke="#1F2A4D" points="237.3834 88.940044 237.3834 79.5709052 240.350023 79.5709052 240.350023 88.940044 243.847874 88.940044 239.006267 93.5709052 233.847874 88.940044"></polygon>
+        <polygon id="Path" stroke="#1F2A4D" points="114.3834 319.624613 114.3834 305.570905 117.350023 305.570905 117.350023 319.624613 120.847874 319.624613 116.006267 326.570905 110.847874 319.624613"></polygon>
+        <polygon id="Path" stroke="#1F2A4D" points="114.3834 372.624613 114.3834 358.570905 117.350023 358.570905 117.350023 372.624613 120.847874 372.624613 116.006267 379.570905 110.847874 372.624613"></polygon>
+        <polygon id="Path" stroke="#1F2A4D" points="114.3834 423.624613 114.3834 409.570905 117.350023 409.570905 117.350023 423.624613 120.847874 423.624613 116.006267 430.570905 110.847874 423.624613"></polygon>
+        <polygon id="Path" stroke="#1F2A4D" transform="translate(223.8479, 343.0709) scale(-1, 1) rotate(-270) translate(-223.8479, -343.0709)" points="221.79761 351.362891 221.79761 318.570905 225.950882 318.570905 225.950882 351.362891 230.847874 351.362891 224.069624 367.570905 216.847874 351.362891"></polygon>
+        <polygon id="Path" stroke="#1F2A4D" transform="translate(223.8479, 343.0709) scale(-1, 1) rotate(-270) translate(-223.8479, -343.0709)" points="221.79761 351.362891 221.79761 318.570905 225.950882 318.570905 225.950882 351.362891 230.847874 351.362891 224.069624 367.570905 216.847874 351.362891"></polygon>
+        <polygon id="Path" stroke="#1F2A4D" transform="translate(223.8479, 395.0709) scale(-1, 1) rotate(-270) translate(-223.8479, -395.0709)" points="221.79761 403.362891 221.79761 370.570905 225.950882 370.570905 225.950882 403.362891 230.847874 403.362891 224.069624 419.570905 216.847874 403.362891"></polygon>
+        <polygon id="Path" stroke="#1F2A4D" points="237.3834 132.940044 237.3834 123.570905 240.350023 123.570905 240.350023 132.940044 243.847874 132.940044 239.006267 137.570905 233.847874 132.940044"></polygon>
+        <path d="M356.215662,68.16211 L344.341153,47.4078745 C342.50508,44.1973752 339.498267,44.1973752 337.66223,47.4078745 L325.783454,68.16211 C323.947381,71.3740084 325.45013,74 329.125014,74 L352.87581,74 C356.549306,74 358.053263,71.3738649 356.215982,68.16211 L356.215662,68.16211 Z M339,53.852824 C339,52.8294352 339.89532,52 341,52 C342.10468,52 343,52.8294352 343,53.852824 L343,62.147176 C343,63.1705648 342.10468,64 341,64 C339.89532,64 339,63.1705648 339,62.147176 L339,53.852824 Z M341,70 C339.897369,70 339,69.1026641 339,68 C339,66.8973689 339.897336,66 341,66 C342.102664,66 343,66.8973359 343,68 C343,69.1026311 342.102664,70 341,70 Z" id="Fill-1" fill="#1F2A4D"></path>
+        <g id="Group-4" transform="translate(0.6006, 33)">
+            <rect id="Rectangle" stroke="#1F2A4D" fill="#D8D8D8" x="0.399381507" y="0" width="22" height="206"></rect>
+            <text id="AVOIDANCE" transform="translate(12, 103.2837) rotate(90) translate(-12, -103.2837)" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="16" font-weight="bold" fill="#121145">
+                <tspan x="-28.632" y="109.283684">AVOIDANCE</tspan>
+            </text>
+        </g>
+        <g id="Group-4" transform="translate(0.6006, 247)">
+            <rect id="Rectangle" stroke="#1F2A4D" fill="#D8D8D8" x="0.399381507" y="0" width="22" height="217"></rect>
+            <text id="TREATMENT" transform="translate(12.3994, 109) rotate(90) translate(-12.3994, -109)" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="16" font-weight="bold" fill="#121145">
+                <tspan x="-30.0326185" y="115">TREATMENT</tspan>
+            </text>
+        </g>
+        <g id="Group-4" transform="translate(0.6006, 472)">
+            <rect id="Rectangle" stroke="#1F2A4D" fill="#D8D8D8" x="0.399381507" y="0" width="22" height="138"></rect>
+            <text id="LEARNING" transform="translate(12.3994, 70) rotate(90) translate(-12.3994, -70)" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="16" font-weight="bold" fill="#121145">
+                <tspan x="-23.7686185" y="76">LEARNING</tspan>
+            </text>
+        </g>
+        <g id="Group" transform="translate(32, 255)">
+            <rect id="Rectangle" stroke="#1F2A4D" stroke-width="2" fill-opacity="0.503966858" fill="#E0A442" x="0" y="0" width="167" height="50"></rect>
+            <text id="Blood-glucose-&lt;-4.0" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="9" font-weight="bold" fill="#121145">
+                <tspan x="29.464" y="13">Blood glucose &lt; 4.0 mmol/L</tspan>
+                <tspan x="137.536" y="13" font-size="4"></tspan>
+                <tspan x="83.5" y="24" font-size="4"></tspan>
+                <tspan x="13.723" y="29" font-family="SourceSansPro-Regular, Source Sans Pro" font-weight="normal">Four is the Floor — Treat immediately</tspan>
+                <tspan x="153.277" y="29"></tspan>
+                <tspan x="35.053" y="40">STOP INSULIN INFUSION</tspan>
+            </text>
+        </g>
+        <g id="Group" transform="translate(27, 571)">
+            <rect id="Rectangle" stroke="#1F2A4D" stroke-width="2" fill-opacity="0.503966858" fill="#E0A442" x="0" y="0" width="419" height="29"></rect>
+            <text id="Episode-of-hypoglyca" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="9" font-weight="normal" fill="#121145">
+                <tspan x="41.2675" y="11">Episode of hypoglycaemia (&lt;4.0mmol/L) in a Critical Care patient: complete incident form.</tspan>
+                <tspan x="127.9465" y="22">3 monthly audit of hypoglycaemia episodes</tspan>
+            </text>
+        </g>
+        <g id="Group-5" transform="translate(257, 255)">
+            <rect id="Rectangle" stroke="#1F2A4D" stroke-width="2" fill-opacity="0.644628565" fill="#1F2A4D" x="0" y="0" width="187" height="40"></rect>
+            <g id="Group-3" transform="translate(9, 8)" fill="#FFFFFF">
+                <path d="M3.83870601,6.70918387 C5.59097666,4.92377491 8.1260659,4.34401894 10.3519309,4.99539977 L7.98348548,6.29816142 L8.88368421,8.01194552 L14,5.21210841 L11.2753404,0 L9.5933652,0.917222968 L10.7304085,3.06461743 C7.88827398,2.29257477 4.71503081,3.0401086 2.48798159,5.30912053 C-0.354152913,8.20500445 -0.756551789,12.6448772 1.25657945,16 L2.65358329,14.5765765 C1.351862,12.0417128 1.75430825,8.83283208 3.83872969,6.70894255 L3.83870601,6.70918387 Z" id="Fill-1"></path>
+                <path d="M15.7555238,6 L14.3622478,7.42132263 C15.6614167,9.95148126 15.2600444,13.1565898 13.1811852,15.2773447 C11.4335904,17.0601185 8.90526598,17.6390188 6.68534063,16.9885994 L9.04746592,15.6877605 L8.14966934,13.9765058 L3,16.7946206 L5.74053776,22 L7.41802466,21.0841308 L6.28401555,18.9399059 C9.11856589,19.7108091 12.2833414,18.9643786 14.5044478,16.6987155 C17.3380533,13.782527 17.763472,9.34920712 15.7556419,6.00024097 L15.7555238,6 Z" id="Fill-2"></path>
+            </g>
+            <text id="Recheck-blood-glucos" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="9" font-weight="normal" fill="#FFFFFF">
+                <tspan x="38.4325" y="17">Recheck blood glucose at 15, 30 and </tspan>
+                <tspan x="45.4795" y="28">60 minutes or until &gt; 4.0 mmol/L</tspan>
+            </text>
+        </g>
+        <g id="Group-3" transform="translate(32, 324)">
+            <path d="M-2.27373675e-13,5 L167,5 L167,34 L-2.27373675e-13,34 Z" id="Rectangle" stroke="#1F2A4D" stroke-width="2" stroke-dasharray="2"></path>
+            <path d="M218,0 L413,0 L413,38 L218,38 Z" id="Rectangle" stroke="#1F2A4D" stroke-width="2" stroke-dasharray="2"></path>
+            <text id="Does-the-patient-hav" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="9" font-weight="normal" fill="#121145">
+                <tspan x="26.6525" y="17">Does the patient have a central </tspan>
+                <tspan x="75.671" y="28">line?</tspan>
+            </text>
+            <text id="Does-the-patient-hav" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="9" font-weight="normal" fill="#121145">
+                <tspan x="26.6525" y="17">Does the patient have a central </tspan>
+                <tspan x="75.671" y="28">line?</tspan>
+            </text>
+            <text id="25ml-50%-glucose-via" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="9" font-weight="normal" fill="#121145">
+                <tspan x="228.979" y="17">25ml 50% glucose via CVC line over 10 minutes </tspan>
+                <tspan x="234.64" y="28">(followed immediately by 0.9% saline flush)</tspan>
+            </text>
+            <path d="M218,51 L413,51 L413,89 L218,89 Z" id="Rectangle" stroke="#1F2A4D" stroke-width="2" stroke-dasharray="2"></path>
+            <text id="250ml-10%-glucose-vi" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="9" font-weight="normal" fill="#121145">
+                <tspan x="228.1735" y="68">250ml 10% glucose via peripheral cannula over </tspan>
+                <tspan x="295.3045" y="79">15 minutes</tspan>
+            </text>
+        </g>
+        <g id="Group-3" transform="translate(32, 380)">
+            <path d="M-2.27373675e-13,0 L167,0 L167,29 L-2.27373675e-13,29 Z" id="Rectangle" stroke="#1F2A4D" stroke-width="2" stroke-dasharray="2"></path>
+            <text id="Does-the-patient-hav" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="9" font-weight="normal" fill="#121145">
+                <tspan x="40.5935" y="12">Does the patient have a </tspan>
+                <tspan x="47.2355" y="23">peripheral cannula?</tspan>
+            </text>
+        </g>
+        <text id="Hypoglycaemia-is-com" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="9" font-weight="normal" fill="#121145">
+            <tspan x="41" y="485">Hypoglycaemia is common in ICU patients, take steps so we can improve our </tspan>
+            <tspan x="41" y="496">management:</tspan>
+        </text>
+        <text id="Document-the-episode" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="9" font-weight="normal" line-spacing="11" fill="#121145">
+            <tspan x="63" y="513">Document the episode on EPR: include details of insulin, oral medications, enteral feed and </tspan>
+            <tspan x="63" y="524">treatments given</tspan>
+            <tspan x="63" y="539.7">Review risk factors to avoid a further episode</tspan>
+            <tspan x="63" y="555.4">Discuss on next Ward Round - different target BG / consider stopping IV insulin ?</tspan>
+        </text>
+        <text id="Hypoglycaemia-Protoc" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="15" font-weight="bold" fill="#121145">
+            <tspan x="117.6575" y="15">Hypoglycaemia Protocol in Critical Care</tspan>
+        </text>
+        <circle id="Oval" fill="#1F2A4D" cx="57.5" cy="509.5" r="1.5"></circle>
+        <circle id="Oval" fill="#1F2A4D" cx="57.5" cy="536.5" r="1.5"></circle>
+        <circle id="Oval" fill="#1F2A4D" cx="57.5" cy="552.5" r="1.5"></circle>
+    </g>
+</svg>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="583px" height="444px" viewBox="0 0 583 444" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Metformin</title>
+    <g id="Metformin" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-6" transform="translate(95, 3)">
+            <g id="Group" fill="#D8D8D8" stroke="#A2A2A2" stroke-width="2">
+                <g id="Group-5">
+                    <rect id="Rectangle" x="0" y="0" width="400" height="49"></rect>
+                </g>
+            </g>
+            <text id="Metformin-is-a-bigua" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="14" font-weight="normal" fill="#1F2A4D">
+                <tspan x="44.898" y="19">Metformin is a biguanide which decreases hepatic glucose </tspan>
+                <tspan x="62.608" y="37">production and increases peripheral glucose uptake</tspan>
+            </text>
+            <g id="Group-3" transform="translate(17, 15)" fill="#1F2A4D">
+                <path d="M10,17.499589 C10,18.8810416 8.88042406,20 7.5,20 C6.11957594,20 5,18.8810416 5,17.499589 C5,16.118938 6.11957594,15 7.5,15 C8.88042406,15 10,16.1189586 10,17.499589" id="Fill-1"></path>
+                <path d="M0,5.61227911 L0.247903075,4.84395863 C1.05359329,1.89044185 3.77887791,0 6.93805033,0 C10.7170326,0 14,2.83526462 14,6.49809525 C14,9.45161203 11.8936067,11.9331156 8.98244175,12.7005601 L8.98244175,14 L4.95566076,14 L4.95566076,11.6958747 C4.95566076,10.3964348 5.9464589,9.27349721 7.30985275,9.15604137 C8.79645704,8.9787368 10.0352209,7.91568775 10.0352209,6.4979559 C10.0352209,4.90300508 8.54861659,3.83987043 6.93805033,3.83987043 C5.57540801,3.83987043 4.45985461,4.54908474 4.08888723,5.84856444 L3.84098416,6.61688492 L0.000208760485,5.61293607 L0,5.61227911 Z" id="Fill-2"></path>
+            </g>
+        </g>
+        <g id="Group-3" transform="translate(29, 84)">
+            <path d="M0,0 L66,0 L66,63 L0,63 Z" id="Rectangle" stroke="#1F2A4D" stroke-width="2" stroke-dasharray="2"></path>
+            <text id="Does-patient-normall" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="9" font-weight="normal" fill="#121145">
+                <tspan x="9.294" y="17">Does patient </tspan>
+                <tspan x="16.143" y="28">normally </tspan>
+                <tspan x="24.927" y="39">take </tspan>
+                <tspan x="11.112" y="50">metformin?</tspan>
+            </text>
+        </g>
+        <g id="Group-3" transform="translate(135, 91)">
+            <path d="M0,0 L66,0 L66,49 L0,49 Z" id="Rectangle" stroke="#1F2A4D" stroke-width="2" stroke-dasharray="2"></path>
+            <text id="Is-full-enteral-feed" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="9" font-weight="normal" fill="#121145">
+                <tspan x="22.974" y="15">Is full </tspan>
+                <tspan x="10.617" y="26">enteral feed </tspan>
+                <tspan x="9.5595" y="37">established?</tspan>
+            </text>
+        </g>
+        <g id="Group-3" transform="translate(241, 71)">
+            <path d="M0,0 L177,0 L177,152 L0,152 Z" id="Rectangle" stroke="#1F2A4D" stroke-width="2" stroke-dasharray="2"></path>
+            <text id="High-dose-vasopresso" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="9" font-weight="normal" fill="#121145">
+                <tspan x="24.0645" y="27">High dose vasopressors (&gt; 10ml/hr </tspan>
+                <tspan x="34.8645" y="38">noradrenaline or equivalent)</tspan>
+                <tspan x="82.9515" y="49">OR</tspan>
+                <tspan x="30.5085" y="60">Acute kidney injury stage 2 or 3 </tspan>
+                <tspan x="26.229" y="71">(&gt;200% rise in creatinine, oliguria </tspan>
+                <tspan x="32.709" y="82">&lt;0.5ml/kg/hr for &gt;12 hrs or on </tspan>
+                <tspan x="74.748" y="93">CVVHF)</tspan>
+                <tspan x="82.9515" y="104">OR</tspan>
+                <tspan x="37.1505" y="115">Acute or chronic liver injury</tspan>
+                <tspan x="82.9515" y="126">OR</tspan>
+                <tspan x="38.307" y="137">Lactic acidosis (&gt;4mmol/L)</tspan>
+            </text>
+        </g>
+        <g id="Group" transform="translate(458, 92)">
+            <rect id="Rectangle" stroke="#1F2A4D" stroke-width="2" fill-opacity="0.503966858" fill="#E0A442" x="0" y="0" width="101" height="73"></rect>
+            <text id="Continue-metformin-D" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="9" font-weight="bold" fill="#121145">
+                <tspan x="10.6665" y="23">Continue metformin</tspan>
+                <tspan x="19.1895" y="34" font-family="SourceSansPro-Regular, Source Sans Pro" font-weight="normal">Dose adjustment </tspan>
+                <tspan x="17.205" y="45" font-family="SourceSansPro-Regular, Source Sans Pro" font-weight="normal">according to renal </tspan>
+                <tspan x="35.241" y="56" font-family="SourceSansPro-Regular, Source Sans Pro" font-weight="normal">function</tspan>
+            </text>
+        </g>
+        <g id="Group" transform="translate(29, 256)">
+            <rect id="Rectangle" stroke="#1F2A4D" stroke-width="2" fill-opacity="0.503966858" fill="#E0A442" x="0" y="0" width="66" height="39"></rect>
+            <text id="OMIT-metformin" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="9" font-weight="bold" fill="#121145">
+                <tspan x="23.1365" y="16">OMIT </tspan>
+                <tspan x="12.1835" y="27">metformin</tspan>
+            </text>
+        </g>
+        <g id="Group" transform="translate(135, 256)">
+            <rect id="Rectangle" stroke="#1F2A4D" stroke-width="2" fill-opacity="0.503966858" fill="#E0A442" x="0" y="0" width="66" height="39"></rect>
+            <text id="OMIT-metformin" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="9" font-weight="bold" fill="#121145">
+                <tspan x="23.1365" y="16">OMIT </tspan>
+                <tspan x="12.1835" y="27">metformin</tspan>
+            </text>
+        </g>
+        <g id="Group" transform="translate(297, 256)">
+            <rect id="Rectangle" stroke="#1F2A4D" stroke-width="2" fill-opacity="0.503966858" fill="#E0A442" x="0" y="0" width="66" height="39"></rect>
+            <text id="OMIT-metformin" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="9" font-weight="bold" fill="#121145">
+                <tspan x="23.1365" y="16">OMIT </tspan>
+                <tspan x="12.1835" y="27">metformin</tspan>
+            </text>
+        </g>
+        <text id="No" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="9" font-weight="normal" fill="#121145">
+            <tspan x="46" y="196.429095">No</tspan>
+        </text>
+        <polygon id="Path" stroke="#1F2A4D" points="60.3833999 249.053708 60.3833999 147 63.3500226 147 63.3500226 249.053708 66.8478744 249.053708 62.006267 256 56.8478744 249.053708"></polygon>
+        <text id="Yes" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="9" font-weight="normal" fill="#121145">
+            <tspan x="314" y="239.429095">Yes</tspan>
+        </text>
+        <polygon id="Path" stroke="#1F2A4D" points="328.3834 249.053708 328.3834 223 331.350023 223 331.350023 249.053708 334.847874 249.053708 330.006267 256 324.847874 249.053708"></polygon>
+        <text id="No" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="9" font-weight="normal" fill="#121145">
+            <tspan x="152" y="196.429095">No</tspan>
+        </text>
+        <polygon id="Path" stroke="#1F2A4D" points="166.3834 249.053708 166.3834 140 169.350023 140 169.350023 249.053708 172.847874 249.053708 168.006267 256 162.847874 249.053708"></polygon>
+        <text id="Yes" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="9" font-weight="normal" fill="#121145">
+            <tspan x="109" y="109.429095">Yes</tspan>
+        </text>
+        <polygon id="Path" stroke="#1F2A4D" transform="translate(115.1739, 115.5) rotate(270) translate(-115.1739, -115.5)" points="113.709463 128.727645 113.709463 95.3260628 116.676085 95.3260628 116.676085 128.727645 120.173937 128.727645 115.33233 135.673937 110.173937 128.727645"></polygon>
+        <text id="Yes" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="9" font-weight="normal" fill="#121145">
+            <tspan x="215" y="109.429095">Yes</tspan>
+        </text>
+        <polygon id="Path" stroke="#1F2A4D" transform="translate(221.1739, 115.5) rotate(270) translate(-221.1739, -115.5)" points="219.709463 128.727645 219.709463 95.3260628 222.676085 95.3260628 222.676085 128.727645 226.173937 128.727645 221.33233 135.673937 216.173937 128.727645"></polygon>
+        <text id="No" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="9" font-weight="normal" fill="#121145">
+            <tspan x="432" y="109.429095">No</tspan>
+        </text>
+        <polygon id="Path" stroke="#1F2A4D" transform="translate(438.1739, 115.5) rotate(270) translate(-438.1739, -115.5)" points="436.709463 128.727645 436.709463 95.3260628 439.676085 95.3260628 439.676085 128.727645 443.173937 128.727645 438.33233 135.673937 433.173937 128.727645"></polygon>
+        <g id="Group-3" transform="translate(39, 419)"></g>
+        <g id="Group-2" transform="translate(34, 319)">
+            <g id="Group-5" fill="#D8D8D8" stroke="#A2A2A2" stroke-width="2">
+                <rect id="Rectangle" x="0" y="0" width="520" height="116"></rect>
+            </g>
+            <text id="May-be-associated-wi" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="9" font-weight="normal" fill="#121145">
+                <tspan x="15" y="20">May be associated with a lactic acidosis in patients with shock, renal impairment or in liver injury: omit in these circumstances.</tspan>
+                <tspan x="15" y="31"></tspan>
+                <tspan x="15" y="42">Unlikely to be a cause of hypoglycaemia. May reduce the need for intravenous insulin and therefore decrease glucose variability.</tspan>
+                <tspan x="15" y="53"></tspan>
+                <tspan x="15" y="64">Early reintroduction may be beneficial in critically ill patients already taking metformin. If enteral feed is established and no surgical </tspan>
+                <tspan x="15" y="75">contraindications consider restartin early.</tspan>
+                <tspan x="15" y="86"></tspan>
+                <tspan x="15" y="97">Monitor lactate - if rising above 4mmol/L omit metformin.</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
