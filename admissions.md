@@ -30,7 +30,7 @@ Critical care patients have unpredictable absorption of subcutaneous insulin and
 
 :::
 
-A management plan for [basal/long acting insulin](/basal) and [other existing diabetes medications](/drugs) should be made on admission to critical care.
+A management plan for [basal/long acting insulin](/) and [other existing diabetes medications](/drugs) should be made on admission to critical care.
 
 ::: info
 
