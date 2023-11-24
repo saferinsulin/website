@@ -5,15 +5,19 @@
 - Metformin may be associated with lactic acidosis in critically ill patients with shock, hepatic impairment or acute and chronic renal failure.
 
 - Metformin should be suspended in patients with:
-  > - No enteral route / surgical contraindication
+  > - No enteral route / surgical contraindication to enteral medication
   > - Shock requiring > 10ml/hr noradrenaline (4mg in 50ml) or equivalent
   > - Acute or chronic liver failure
   > - Acute kidney injury (AKI) Stage 2 or 3 (increase serum creatinine >200%, urine output < 0.5ml/kg/hr for >12hrs or on renal replacement therapy).
-  > - Lactate > 1.5 mmols
+  > - Lactate > 2.0 mmol/L
+
+- Restarting metformin may reduce insulin requirements in patients taking both agents: involve DSN colleagues when metformin is due to restart so insulin dose adjustments can be considered.
 
 - Metformin may be associated with improved survival in patients presenting to critical care who have Type 2 diabetes and are already taking metformin or have sepsis. It may reduce the need for intravenous insulin and therefore minimise glycaemic variability, so continuation is to be considered in the absence of risk factors above.
 
-- Metformin dose adjusted according to creatinine clearance and stop if creatinine clearance < 30 in chronic renal failure or stable AKI / on CVVHF
+- Metformin dose may need adjusting according to eGFR in chronic renal failure, with a stable AKI or on CVVH: seek pharmacy advice.
+
+- In patients admitted with a high HbA1c (>48 mmol/L) who are requiring intravenous insulin to control hyperglycaemia, consider starting metformin once full feed is established if none of the above contraindications are present.  The recommended starting dose is lower at 500mg bd to reduce the risk of GI side effects with subsequent titration by the Diabetes Specialist Team.
 
 <!-- insert flowchart SVG code -->
 [![Metformin algorithm](/metformin.svg)](/metformin.pdf)

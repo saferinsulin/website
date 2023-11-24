@@ -8,7 +8,7 @@ The following guidance is for **all** patients admitted to critical care.
 
 :::
 
-**All** patients should have their HBA1c checked on admission to Critical Care.
+**All** patients should have their HBA1c checked on admission to Critical Care.  Those with elevated HbA1c will require subsequent referral to the Diabetes Specialist Team for ongoing input on step-down.
 
 **All** patients should have an admission blood glucose checked either via an ABG / VBG sample or a laboratory glucose.
 
