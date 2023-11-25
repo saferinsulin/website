@@ -1,5 +1,7 @@
 # Oral/Subcut hypoglycaemic agents
 
+## Drugs A - Z
+
 - [Alogliptin](#dpp-4-inhibitors)
 - [Canagliflozin](#sglt-2-inhibitors)
 - [Dapagliflozin](#sglt-2-inhibitors)
