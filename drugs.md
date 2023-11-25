@@ -41,7 +41,7 @@
 
 ## GLP-1 analogues
 
-- Glucagon-like peptide 1 (GLP-1) analogues (**Exenatide** and **liraglutide**) are subcutaneously administered medications and absorption may be unpredictable in critically ill patients. They should be discontinued in patients admitted to critical care.
+- Glucagon-like peptide 1 (GLP-1) analogues (**Exenatide** and **Liraglutide**) are subcutaneously administered medications and absorption may be unpredictable in critically ill patients. They should be discontinued in patients admitted to critical care.
 
 - The GLP-1 analogues act by increasing incretin levels which reduce gastric emptying. A common side effect is nausea and vomiting. If, after restarting these agents, there are concerns regarding high gastric aspirates, paralytic ileus or vomiting then these agents should be suspended.
 
@@ -61,7 +61,7 @@
 
 ## Sulphonylureas
 
-- The sulphonylureas (**gliclazide** and **glimepiride**) cause insulin release by direct binding to receptors on beta cells. They are associated with hypoglycaemia. Critically ill patients with unpredictable absorption and renal clearance may be at higher risk.
+- The sulphonylureas (**Gliclazide** and **Glimepiride**) cause insulin release by direct binding to receptors on beta cells. They are associated with hypoglycaemia. Critically ill patients with unpredictable absorption and renal clearance may be at higher risk.
 
 - Gliclazide and glimepiride should be suspended on admission to critical care and blood glucose should be monitored closely (every 4-6 hours) for up to 48 hours if the patient has any evidence of renal impairment.  
 
