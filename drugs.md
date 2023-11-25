@@ -1,5 +1,20 @@
 # Oral/Subcut hypoglycaemic agents
 
+- [Alogliptin](#dpp-4-inhibitors)
+- [Canagliflozin](#sglt-2-inhibitors)
+- [Dapagliflozin](#sglt-2-inhibitors)
+- [Empagliflozin](#sglt-2-inhibitors)
+- [Exenatide](#glp-1-analogues)
+- [Gliclazide](#sulphonylureas)
+- [Glimepiride](#sulphonylureas)
+- [Linagliptin](#dpp-4-inhibitors)
+- [Liraglutide](#glp-1-analogues)
+- [Metformin](#metformin)
+- [Pioglitazone](#thiazolidinediones)
+- [Saxagliptin](#dpp-4-inhibitors)
+- [Sitagliptin](#dpp-4-inhibitors)
+- [Vildagliptin](#dpp-4-inhibitors)
+
 ## Metformin
 
 - Metformin may be associated with lactic acidosis in critically ill patients with shock, hepatic impairment or acute and chronic renal failure.
