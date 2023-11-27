@@ -22,6 +22,6 @@ It is likely that patients should have an individualised glucose target accordin
 
 - **All** patients should have their **HBA1c checked on admission** to Critical Care.
 
-- There is an increasing prevalence of type 2 diabetes in the population and with it recent advances in novel antidiabetic agents that may have specific risks and benefits for the critically ill patient. For instance, the use of sodium–glucose-co-transporter 2 (SGLT-2) has an associated risk of euglycaemic ketoacidosis.  These guidelines aim to [provide guidance](/drugs) on the use of these agents in critical care.
+- There is an increasing prevalence of type 2 diabetes in the population and with it recent advances in **novel antidiabetic agents that may have specific risks and benefits for the critically ill patient**. For instance, the use of sodium–glucose-co-transporter 2 (SGLT-2) has an associated risk of euglycaemic ketoacidosis.  These guidelines aim to [provide guidance](/drugs) on the use of these agents in critical care.
 
-- Critically ill patients have unpredictable absorption of subcutaneous insulin and this may pose a risk of both under- and over-dosing of insulin.
+- Critically ill patients have **unpredictable absorption of subcutaneous insulin** and this may pose a risk of both under- and over-dosing of insulin.
