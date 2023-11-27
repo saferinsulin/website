@@ -1,6 +1,6 @@
 # Admissions
 
-## Admission blood glucose and HbA1c
+## Admission blood glucose & HbA1c
 
 ::: tip Note
 
@@ -8,7 +8,13 @@ The following guidance is for **all** patients admitted to critical care.
 
 :::
 
-**All** patients should have their HBA1c checked on admission to Critical Care.  Those with elevated HbA1c will require subsequent referral to the Diabetes Specialist Team for ongoing input on step-down.
+**All** patients should have their HBA1c checked on admission to Critical Care.  Those with elevated HbA1c (> 48 mmol/mol) will require subsequent referral to the Diabetes Specialist Team for ongoing input on step-down.
+
+::: tip HBA1c in the diagnosis of diabetes
+
+HbA1c of 48 mmol/mol is considered the cutoff point for the diagnosis of diabetes.  **However a HbA1c of < 48 mmol/mol does not exclude a diagnosis of diabetes.**
+
+:::
 
 **All** patients should have an admission blood glucose checked either via an ABG / VBG sample or a laboratory glucose.
 
@@ -17,6 +23,16 @@ The following guidance is for **all** patients admitted to critical care.
 Patients commencing enteral or parenteral feed need their blood glucose monitoring every 4-6 hours.
 
 Patients on an insulin infusion need their blood glucose monitoring as per the [hyperglycaemia](/hyperglycaemia) section of this guideline.
+
+## Documentation of diagnoses
+
+Any relevant diagnosis should be documented in the patient’s  electronic patient record including:
+
+- Type 1 diabetes
+- Type 2 diabetes
+- Gestational diabetes
+- Critical illness induced hyperglycaemia
+- Steroid induced hyperglycaemia
 
 ## Existing diabetes
 
@@ -40,20 +56,24 @@ There is an increasing prevalence of type 2 diabetes in the population and with 
 
 ### Feet
 
-ALWAYS assess and exclude acute foot infection (may be the source of sepsis) or critical limb ischaemia.
+**Always** assess and exclude acute foot infection (may be the source of sepsis) or critical limb ischaemia.
 
-ALWAYS ensure the foot is intact and protected.
+**Always** ensure the foot is intact and protected.
 
 ### Insulin pumps
 
-Refer to insulin pump protocol. In DKA or critical illness the absorption of insulin can vary: insulin pumps should be removed and replaced with a variable rate insulin infusion.
+Refer to insulin pump protocol. In DKA or critical illness the absorption of insulin can vary: insulin pumps should be removed and replaced with a variable rate insulin infusion.  Consultation with the Diabetes Specialist Team is advised.
 
 ### Newer Technology
 
-Continuous glucose monitors (CGM) and Freestyle Libre (FSL) devices can be left on the patient but conventional capillary glucose monitoring will still be necessary.
+Continuous glucose monitors (CGM) and Freestyle Libre (FSL) devices can usually be left on the patient but conventional capillary glucose monitoring will still be necessary.
 
 ::: warning
 
 For imaging, insulin pumps, Continuous Glucose Monitors (CGM) and FreeStyle Libre (FSL) devices need to be removed for magnetic scans such as MRI.
 
 :::
+
+## Protocol
+
+<iframe src="/hyperglycaemia.pdf#toolbar=0&navpanes=0" width="100%" height="1080px"></iframe>

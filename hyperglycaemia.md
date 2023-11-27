@@ -10,8 +10,4 @@ Monitoring of blood glucose levels
 
 - If Variable Rate Insulin Infusion is commenced, then blood glucose should be checked 1 hourly, ideally via ABG / VBG.  POC Capillary Sampling is acceptable if patient’s glucose control has been stable to over the preceding 24 hours and no arterial or central line access is available for monitoring. There may be considerable difference between POC analysis and gas analyser results (up to 2mmol/L) so once one method is used it is preferable to continue with this. Unexpected or grossly abnormal results must be checked with another device.
 
-- If a Variable Rate Insulin Infusion is being stopped and is no longer required blood glucose should be monitored hourly for at least 4 hours post stopping, this is particularly relevant when stopping for procedures or scan.
-
-## Protocol
-
-[![Hyperglycaemia algorithm](/hyperglycaemia.svg)](/hyperglycaemia.pdf)
+- If a Variable Rate Insulin Infusion is being stopped and is no longer required, blood glucose should be monitored hourly for **at least 4 hours after stopping**: this is particularly relevant when suspending for procedures or scans.

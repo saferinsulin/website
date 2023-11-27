@@ -26,6 +26,9 @@ features:
   - title: Hypoglycaemia
     details: The management of hypoglycaemia in critical care.
     link: /hypoglycaemia
+  - title: Basal Insulin
+    details: The management of basal and long-acting insulins in critical care
+    link: /basal
   - title: Drugs
     details: Management of oral/subcut hypoglycaemic agents in Critical Care
     link: /drugs

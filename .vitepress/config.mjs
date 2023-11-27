@@ -21,6 +21,7 @@ export default defineConfig({
           { text: 'Admissions', link: '/admissions' },
           { text: 'Hyperglycaemia', link: '/hyperglycaemia' },
           { text: 'Hypoglycaemia', link: '/hypoglycaemia' },
+          { text: 'Basal Insulin', link: '/basal' },
           { text: 'Drugs', link: '/drugs' },
           { text: 'COVID-19', link: '/covid' },
         ],

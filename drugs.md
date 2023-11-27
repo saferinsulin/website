@@ -37,7 +37,9 @@
 - In patients admitted with a high HbA1c (>48 mmol/L) who are requiring intravenous insulin to control hyperglycaemia, consider starting metformin once full feed is established if none of the above contraindications are present.  The recommended starting dose is lower at 500mg bd to reduce the risk of GI side effects with subsequent titration by the Diabetes Specialist Team.
 
 <!-- insert flowchart SVG code -->
-[![Metformin algorithm](/metformin.svg)](/metformin.pdf)
+### Metformin protocol
+
+<iframe src="/metformin.pdf#toolbar=0&navpanes=0" width="100%" height="525px"></iframe>
 
 ## GLP-1 analogues
 

@@ -49,4 +49,4 @@ Patients at High Risk of Hypoglycaemia
 
 ## Protocol
 
-[![Hypoglycaemia algorithm](/hypoglycaemia.svg)](/hypoglycaemia.pdf)
+<iframe src="/hypoglycaemia.pdf#toolbar=0&navpanes=0" width="100%" height="830px"></iframe>
