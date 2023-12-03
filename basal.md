@@ -8,7 +8,7 @@
 
 - Basal insulins should be administered to the abdomen, legs or buttocks away from sites of scarring, lipohypertrophy (hard lumps) and sites of infection.
 
-- Basal insulin should not be started for patients in critical care who are felt to have hyperglycaemia secondary to critical illness, in whom HBA1c < 53mmol/l and are non-diabetic. Hyperglycaemia is likely to be transient and resolve when critical illness resolves. In steroid-induced hyperglycaemia, basal insulins should be considered with caution as hyperglycaemia may resolve after stopping therapy. Basal insulin may be commenced after consultation with the Diabetes Specialist Team and consideration of the likelihood for need for medium to long-term treatment.
+- Basal insulin should not be started for patients in critical care who are felt to have hyperglycaemia secondary to critical illness, in whom HBA1c < 53mmol/mol and are non-diabetic. Hyperglycaemia is likely to be transient and resolve when critical illness resolves. In steroid-induced hyperglycaemia, basal insulins should be considered with caution as hyperglycaemia may resolve after stopping therapy. Basal insulin may be commenced after consultation with the Diabetes Specialist Team and consideration of the likelihood for need for medium to long-term treatment.
 
 - Insulin requirements may fall rapidly on resolution of critical illness and should prompt review of basal insulin dose if blood glucose is persistently below the target range (6.0 - 10.0 mmol/L)
 

@@ -50,7 +50,7 @@ A management plan for [basal/long acting insulin](/) and [other existing diabete
 
 ::: info
 
-There is an increasing prevalence of type 2 diabetes in the population and with it recent advances in novel antidiabetic agents that may have specific risks and benefits for the critically ill patient. For instance, the use of sodium – glucoseco- transporter 2(SGLT-2) has an associated risk of euglycaemic ketoacidosis.  Consult the [section of this document](/drugs) for specific risks and guidance on the use of oral and subcutaneous hypoglycaemic agents in the critical care unit.
+There is an increasing prevalence of type 2 diabetes in the population and with it recent advances in novel antidiabetic agents that may have specific risks and benefits for the critically ill patient. For instance, the use of sodium – glucoseco - transporter 2(SGLT-2) has an associated risk of euglycaemic ketoacidosis.  Consult the [section of this document](/drugs) for specific risks and guidance on the use of oral and subcutaneous hypoglycaemic agents in the critical care unit.
 
 :::
 

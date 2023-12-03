@@ -49,7 +49,7 @@
 
 ## DPP-4 inhibitors
 
-- Dipeptidyl peptidase-4 (DPP-4) inhibitors (**Sitagliptin**, **Alogliptin**, **Vildagliptin**, **Saxagliptin** and **Linagliptin**) are oral agents that stimulate incretin release and supress glucagon. They have a similar mechanism of action to the GLP-1 analogues and should be stopped on admission but could be reintroduced once the individual has started to eat normally.
+- Dipeptidyl peptidase-4 (DPP-4) inhibitors (**Sitagliptin**, **Alogliptin**, **Vildagliptin**, **Saxagliptin** and **Linagliptin**) are oral agents that stimulate incretin release and suppress glucagon. They have a similar mechanism of action to the GLP-1 analogues and should be stopped on admission but could be reintroduced once the individual has started to eat normally.
 
 - DPP-4 inhibitors should be discontinued in high gastric aspirates, nausea or vomiting or in individuals with pancreatitis, ketoacidosis, or moderate to severe heart failure
 
@@ -67,7 +67,7 @@
 
 - Gliclazide and glimepiride should be suspended on admission to critical care and blood glucose should be monitored closely (every 4-6 hours) for up to 48 hours if the patient has any evidence of renal impairment.  
 
-- If blood glucose is found to be below 6 mmol/l in a patient who has been taking sulphonylureas prior to admission to critical care, consider starting a background glucose infusion until full feed is established to minimise the risk of a hypoglycaemia.
+- If blood glucose is found to be below 6 mmol/L in a patient who has been taking sulphonylureas prior to admission to critical care, consider starting a background glucose infusion until full feed is established to minimise the risk of a hypoglycaemia.
 
 - Sulphonylureas should not be restarted until the patient is well enough to discharge to ward level care, is eating or has enteral route established and has been reviewed by the Diabetes Specialist nurse.
 
