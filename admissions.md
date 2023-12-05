@@ -12,7 +12,7 @@ The following guidance is for **all** patients admitted to critical care.
 
 ::: tip HBA1c in the diagnosis of diabetes
 
-HbA1c of 48 mmol/mol is considered the cutoff point for the diagnosis of diabetes.  **However a HbA1c of < 48 mmol/mol does not exclude a diagnosis of diabetes.**
+HbA1c of 48 mmol/mol is considered the cut-off point for the diagnosis of diabetes.  **However a HbA1c of < 48 mmol/mol does not exclude a diagnosis of diabetes.**
 
 :::
 
@@ -36,7 +36,7 @@ Any relevant diagnosis should be documented in the patient’s  electronic patie
 
 ## Existing diabetes
 
-It is important to note that the majority of patients with diabetes will be admitted to critical care for reasons other than their diabetes.
+It is important to note that the most patients with diabetes will be admitted to critical care for reasons other than their diabetes.
 
 ### Medication
 

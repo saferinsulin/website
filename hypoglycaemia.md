@@ -47,7 +47,15 @@ Management of an episode of hypoglycaemia in Critical Care should be according t
 Treatment should be initiated **as a clinical emergency** if blood glucose < 4.0mmol/L – remember "Four is the Floor"
 :::
 
-For patients suitable for stepdown to a general ward or with a normally functioning enteral route it is also appropriate to use the ward-based hypoglycaemia algorithm.
+- **Stop insulin infusion**
+
+- If central access present: administer **50ml of 50% glucose** via CVC or PICC line over 10 minutes followed by a 0.9% saline flush.
+
+- If no central access present: administer **250ml of 10% glucose** via peripheral cannula over 15 minutes.
+
+- For patients suitable for stepdown to a general ward or with a normally functioning enteral route it is also appropriate to use the ward-based hypoglycaemia algorithm.
+
+- **Recheck blood glucose** at 15, 30 and 60 minutes or until > 4.0 mmol/L — repeated doses of glucose may be required.
 
 ## Learning from Hypoglycaemia
 
