@@ -18,7 +18,7 @@ It is likely that patients should have an individualised glucose target accordin
 
 :::
 
-- Treatment with insulin infusions is often required to treat hyperglycaemia. These infusions are associated with a risk of hypoglycaemia and are a common cause of reported drug errors.  **The use of a [dynamic insulin infusion calculator](https://saferinsulin.org) is recommended to minimise the risk of error.**
+- Treatment with insulin infusions is often required to treat hyperglycaemia. These infusions are associated with a risk of hypoglycaemia and are a common cause of reported drug errors.  **The use of a [dynamic insulin infusion calculator](https://saferinsulin.org) is recommended to minimise the risk of error and reduce the incidence of hypoglycaemia.**
 
 - **All** patients should have their **HBA1c checked on admission** to Critical Care.
 
