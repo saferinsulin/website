@@ -1,9 +1,5 @@
 # Basal & Long-Acting Insulins
 
-## Algorithm
-
-<iframe src="/basal.pdf#toolbar=0&navpanes=0" width="100%" height="850px"></iframe>
-
 - Unless on high dose vasopressors or have widespread oedema, patients with Type 1 or Type 2 Diabetes should continue **80%** of their normal basal insulin once enteral feed or TPN is established.
 
 - Increases of basal insulin doses should be gradual (ideally every 48-72 hours) as a blood glucose trend is established and calorie intake increases. The dose increase should not be by more than 50% of the current dose.  Dose changes are ideally led by the Diabetes Specialist Team.
@@ -17,3 +13,7 @@
 - Insulin requirements may fall rapidly on resolution of critical illness and should prompt review of basal insulin dose if blood glucose is persistently below the target range (6.0 - 10.0 mmol/L)
 
 - Nasogastric or enteral feeding can influence the choice of basal insulin and regimen prescribed. This is usually dependant on the feeding regimen. **Any subsequent changes to enteral feeding regimen or times will require a review of the current insulin therapy.**
+
+## Algorithm
+
+<iframe src="/basal.pdf#toolbar=0&navpanes=0" width="100%" height="850px"></iframe>
