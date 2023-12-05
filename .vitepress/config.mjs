@@ -23,7 +23,7 @@ export default defineConfig({
           { text: 'Hypoglycaemia', link: '/hypoglycaemia' },
           { text: 'Basal Insulin', link: '/basal' },
           { text: 'Drugs', link: '/drugs' },
-          { text: 'COVID-19', link: '/covid' },
+          // { text: 'COVID-19', link: '/covid' },
         ],
       },
     ],

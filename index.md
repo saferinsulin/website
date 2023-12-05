@@ -32,8 +32,8 @@ features:
   - title: Drugs
     details: Management of oral/subcut hypoglycaemic agents in Critical Care
     link: /drugs
-  - title: COVID-19
-    details: Management of glucose in COVID-19 patients
-    link: /covid
+  # - title: COVID-19
+  #   details: Management of glucose in COVID-19 patients
+  #   link: /covid
 ---
 
