@@ -5,7 +5,7 @@
   "scripts": {
     "gulp": "gulp",
     "serve": "http-server dist/",
-    "browserify": "./node_modules/browserify/bin/cmd.js -d -s calc -o ./dist/js/insulin-calc.js ./node_modules/insulin-calc/js/insulin-calc.js",
+    "browserify": "./node_modules/browserify/bin/cmd.js -d -s calc -o ./dist/js/insulin-calc.js ./js/insulin-calc.js",
     "build": "npm run gulp && npm run browserify"
   },
   "homepage": "https://saferinsulin.org",
