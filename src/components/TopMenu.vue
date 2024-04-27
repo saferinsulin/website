@@ -5,7 +5,7 @@
 <script>
 import { Menu, MenuItem } from 'vue-fomantic-ui'; // 
 export default {
-  components: { Menu: Menu, MenuItem: MenuItem },
+  components: { Menu, MenuItem },
   props: ['items'],
   methods: {
     changeMenu(num) {
