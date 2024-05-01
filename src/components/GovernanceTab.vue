@@ -16,12 +16,12 @@
       </form>
     </div>
     <div v-if="result !== null">
-      <p>Code <strong>{{ code }}</strong> was generated <strong>{{ gov.date }}</strong></p>
+      <p>Code <strong>{{ code }}</strong> was generated using core calculator module version <strong>{{  gov.version  }}</strong> on <strong>{{ gov.date }}</strong></p>
       <p>The user entered the following data:</p>
       <div class="ui secondary segment">
-        <p>Current blood glucose [mmol/L]: <strong>${gov.current}</strong></p>
-        <p>Previous blood glucose [mmol/L]: <strong>${gov.last}</strong></p>
-        <p>Current Insulin rate [ml/hr of 1 iU/ml]: <strong>${gov.rate}</strong></p>
+        <p>Current blood glucose [mmol/L]: <strong>{{ gov.current }}</strong></p>
+        <p>Previous blood glucose [mmol/L]: <strong>{{ gov.last }}</strong></p>
+        <p>Current Insulin rate [ml/hr of 1 iU/ml]: <strong>{{ gov.rate }}</strong></p>
       </div>
       <p>For these values, the calculator generated the following output:</p>
       <div class="ui secondary segment">
@@ -38,6 +38,7 @@
 </template>
 <script setup>
 import { ref } from 'vue';
+import { governance } from '../calc';
 
 let code = ref(null);
 let result = ref(null);
@@ -46,11 +47,13 @@ const gov = {
   date: 'TO DO',
   current: 'TO DO',
   last: 'TO DO',
-  rate: 'TO DO'
+  rate: 'TO DO',
+  version: null
 }
 
 function doCheck (code) {
   
   this.result = 'cows';
+  this.gov = governance(code);
 }
 </script>
