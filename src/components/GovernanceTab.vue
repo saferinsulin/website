@@ -15,13 +15,14 @@
         </div>
       </form>
     </div>
-    <div v-if="result !== null">
-      <p>Code <strong>{{ code }}</strong> was generated using core calculator module version <strong>{{  gov.version  }}</strong> on <strong>{{ gov.date }}</strong></p>
+    <div v-if="result === true">
+      <p>Code <strong>{{ code }}</strong> was generated using core calculator module version <strong>{{ gov.version
+          }}</strong> on <strong>{{ gov.date }}</strong></p>
       <p>The user entered the following data:</p>
       <div class="ui secondary segment">
         <p>Current blood glucose [mmol/L]: <strong>{{ gov.current }}</strong></p>
-        <p>Previous blood glucose [mmol/L]: <strong>{{ gov.last }}</strong></p>
-        <p>Current Insulin rate [ml/hr of 1 iU/ml]: <strong>{{ gov.rate }}</strong></p>
+        <p v-if="gov.last">Previous blood glucose [mmol/L]: <strong>{{ gov.last }}</strong></p>
+        <p v-if="gov.rate">Current Insulin rate [ml/hr of 1 iU/ml]: <strong>{{ gov.rate }}</strong></p>
       </div>
       <p>For these values, the calculator generated the following output:</p>
       <div class="ui secondary segment">
@@ -30,6 +31,11 @@
           gov.rate).advice)}
         </p>
       </div><br>
+    </div>
+    <div v-if="result === false">
+      <p>
+        Code <strong>{{ code }}</strong> is invalid and was not generated with <em>@saferinsulin/core</em>.<br /><br />
+      </p>
     </div>
     <div v-if="result !== null">
       <button @click="result = null; code = null;" class="ui basic red button">Reset</button>
@@ -52,8 +58,12 @@ const gov = {
 }
 
 function doCheck (code) {
-  
-  this.result = 'cows';
-  this.gov = governance(code);
+  const gov = governance(code);
+  if (gov !== null) {
+    this.gov = gov;
+    this.result = true;
+  } else {
+    this.result = false;
+  }
 }
 </script>

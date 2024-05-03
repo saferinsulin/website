@@ -12,7 +12,7 @@
       </SuiHeaderContent>
 
     </SuiHeader>
-    <h1>tab: {{ activeIndex }}</h1>
+    <!-- <h1>tab: {{ activeIndex }}</h1> -->
     <GovernanceTab v-if="activeIndex === 1" />
   </SuiContainer>
   <Footer />
