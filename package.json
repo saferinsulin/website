@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@saferinsulin/core": "^1.9.2",
     "fomantic-ui-css": "^2.9.3",
     "vue": "^3.4.21",
     "vue-fomantic-ui": "^0.26.2"

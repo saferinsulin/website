@@ -27,8 +27,7 @@
       <p>For these values, the calculator generated the following output:</p>
       <div class="ui secondary segment">
         <p><strong>New Insulin rate:</strong><br />
-          ${calc.ongoingRate(gov.current, gov.last, gov.rate).rate + parseResult(calc.ongoingRate(gov.current, gov.last,
-          gov.rate).advice)}
+          <span v-html="output"></span>
         </p>
       </div><br>
     </div>
@@ -44,10 +43,11 @@
 </template>
 <script setup>
 import { ref } from 'vue';
-import { governance } from '../calc';
+import { governance, startingRate, ongoingRate, Legacy } from '@saferinsulin/core';
 
 let code = ref(null);
 let result = ref(null);
+let output = ref(null);
 
 const gov = {
   date: 'TO DO',
@@ -58,12 +58,37 @@ const gov = {
 }
 
 function doCheck (code) {
+  // get governance code
   const gov = governance(code);
   if (gov !== null) {
     this.gov = gov;
+    if (gov.function ==='d') {
+      this.output = `${parseResult(startingRate(gov.current).advice)}`
+    }
+    if (gov.function === 'c') {
+      this.output = `${ongoingRate(gov.current, gov.last, gov.rate).rate} ${parseResult(ongoingRate(gov.current, gov.last, gov.rate).advice)}`
+    }
+    const l = new Legacy('1.0.0');
+    if (gov.function === 'a') {
+      this.output = `${parseResult(l.startingRate(gov.current).advice)}`
+    }
+    if (gov.function === 'b') {
+      this.output = `${l.ongoingRate(gov.current, gov.last, gov.rate).rate} ${parseResult(l.ongoingRate(gov.current, gov.last, gov.rate).advice)}`
+    }
     this.result = true;
   } else {
     this.result = false;
   }
 }
+
+function parseResult (advice) {
+  var output = '';
+  if (advice.type === 'additional') {
+    output += '<br><br><strong>Additional advice:</strong><br>';
+  }
+  advice.text.forEach(function (element) {
+    output += element + '<br>';
+  });
+  return output;
+};
 </script>
