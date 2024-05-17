@@ -12,9 +12,9 @@
       </SuiHeaderContent>
 
     </SuiHeader>
-    <!-- <h1>tab: {{ activeIndex }}</h1> -->
     <MainTab v-if="activeIndex === 0" />
     <GovernanceTab v-if="activeIndex === 1" />
+    <ResourcesTab v-if="activeIndex === 2" />
   </SuiContainer>
   <Footer />
 </template>
@@ -26,9 +26,10 @@ import TopMenu from './components/TopMenu.vue';
 import Footer from './components/Footer.vue';
 import GovernanceTab from './components/GovernanceTab.vue';
 import MainTab from './components/MainTab.vue';
+import ResourcesTab from './components/ResourcesTab.vue';
 
 export default {
-  components: { TopMenu, Footer, MainTab, GovernanceTab },
+  components: { TopMenu, Footer, MainTab, GovernanceTab, ResourcesTab },
   setup() {
     const items = [
       'Calculator',

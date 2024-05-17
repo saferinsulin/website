@@ -6,16 +6,23 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "cy:open-e2e": "cypress open --e2e --browser chrome",
+    "cy:open-unit": "cypress open --component --browser chrome",
+    "cy:run-e2e": "cypress run --e2e",
+    "cy:run-unit": "cypress run --component",
+    "cy:e2e": "start-server-and-test dev http-get://localhost:5173 cy:open-e2e"
   },
   "dependencies": {
-    "@saferinsulin/core": "^1.9.2",
+    "@saferinsulin/core": "^1.9.7",
     "fomantic-ui-css": "^2.9.3",
     "vue": "^3.4.21",
     "vue-fomantic-ui": "^0.26.2"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.0.4",
+    "cypress": "^13.9.0",
+    "start-server-and-test": "^2.0.3",
     "vite": "^5.2.0"
   }
 }

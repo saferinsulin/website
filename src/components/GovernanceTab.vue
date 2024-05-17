@@ -43,7 +43,9 @@
 </template>
 <script setup>
 import { ref } from 'vue';
-import { governance, startingRate, ongoingRate, Legacy } from '@saferinsulin/core';
+import CalcClass from '@saferinsulin/core';
+
+const Calc = new CalcClass('2.0.0');
 
 let code = ref(null);
 let result = ref(null);
@@ -59,16 +61,16 @@ const gov = {
 
 function doCheck (code) {
   // get governance code
-  const gov = governance(code);
+  const gov = Calc.governance(code);
   if (gov !== null) {
     this.gov = gov;
     if (gov.function ==='d') {
-      this.output = `${parseResult(startingRate(gov.current).advice)}`
+      this.output = `${parseResult(Calc.startingRate(gov.current).advice)}`
     }
     if (gov.function === 'c') {
-      this.output = `${ongoingRate(gov.current, gov.last, gov.rate).rate} ${parseResult(ongoingRate(gov.current, gov.last, gov.rate).advice)}`
+      this.output = `${Calc.ongoingRate(gov.current, gov.last, gov.rate).rate} ${parseResult(ongoingRate(gov.current, gov.last, gov.rate).advice)}`
     }
-    const l = new Legacy('1.0.0');
+    const l = new CalcClass('1.0.0');
     if (gov.function === 'a') {
       this.output = `${parseResult(l.startingRate(gov.current).advice)}`
     }
