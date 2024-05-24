@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: Control of Glucose in Salford Critical Care
-  tagline: Rhodri Harris<br>JP Lomas
+  tagline: Rhodri Harris<br>JP Lomas<br>Emma Boxall
   # actions:
   #   - theme: brand
   #     text: Anaesthesia logbooks
