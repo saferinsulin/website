@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: Control of Glucose in Bolton Critical Care
-  tagline: JP Lomas<br>Lauren Nichol<br>Amy Glover<br><small>with thanks to Rhodri Harris</small>
+  name: Control of Glucose in Salford Critical Care
+  tagline: Rhodri Harris<br>JP Lomas
   # actions:
   #   - theme: brand
   #     text: Anaesthesia logbooks
@@ -14,7 +14,7 @@ hero:
   #     link: /logbook-data
 
 features:
-  - title: Key Principles
+  - title: QRG
     details: The principles of glucose control in critical care.
     link: /key-principles
   - title: Admissions
