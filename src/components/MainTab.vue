@@ -136,8 +136,6 @@ import { Checkbox, Dropdown } from 'vue-fomantic-ui';
 import { glucoseValues, insulinRates } from '../data.js';
 import CalcClass from '@saferinsulin/core';
 
-const Calc = new CalcClass('2.0.0');
-
 const patient = ref(0);
 const glucoseRunning = ref(false);
 const selectedA = ref();
@@ -146,20 +144,23 @@ const selectedC = ref();
 const selectedD = ref();
 const result = ref();
 function reset() {
-  this.selectedA = null;
-  this.selectedB = null;
-  this.selectedC = null;
-  this.selectedD = null;
-  this.result = null;
-  this.glucoseRunning = false;
+  selectedA.value = null;
+  selectedB.value = null;
+  selectedC.value = null;
+  selectedD.value = null;
+  result.value = null;
+  glucoseRunning.value = false;
 }
 function calc() {
-  if (this.patient === 1) {
-    this.result = Calc.startingRate(this.selectedA.value);
+  const Calc = new CalcClass('2.0.0');
+  if (patient.value === 1) {
+    result.value = Calc.startingRate(parseFloat(selectedA.value.value));
+    console.log(result.value);
   }
-  if (this.patient === 2) {
-    this.result = Calc.ongoingRate(this.selectedB.value, this.selectedC.value, this.selectedD.value)
+  if (patient.value === 2) {
+    result.value = Calc.ongoingRate(selectedB.value.value, selectedC.value.value, selectedD.value.value)
   }
+  console.log(result.value);
 }
 
 function copyToClipBoard(textToCopy) {

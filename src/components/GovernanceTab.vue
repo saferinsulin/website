@@ -7,7 +7,7 @@
           <div class="six wide field">
             <div class="ui action input">
               <input type="text" placeholder="Reference code" v-model="code">
-              <div class="ui teal button" @click="doCheck(code)">
+              <div class="ui teal button" @click="doCheck()">
                 Check
               </div>
             </div>
@@ -45,41 +45,42 @@
 import { ref } from 'vue';
 import CalcClass from '@saferinsulin/core';
 
-const Calc = new CalcClass('2.0.0');
-
 let code = ref(null);
 let result = ref(null);
 let output = ref(null);
 
-const gov = {
+const gov = ref({
   date: 'TO DO',
   current: 'TO DO',
   last: 'TO DO',
   rate: 'TO DO',
   version: null
-}
+});
 
-function doCheck (code) {
+function doCheck () {
+  const Calc = new CalcClass('2.0.0');
   // get governance code
-  const gov = Calc.governance(code);
-  if (gov !== null) {
-    this.gov = gov;
-    if (gov.function ==='d') {
-      this.output = `${parseResult(Calc.startingRate(gov.current).advice)}`
+  console.log(code.value);
+  const govChk = Calc.governance(code.value);
+  console.log(gov);
+  if (govChk !== null) {
+    gov.value = govChk;
+    if (govChk.function ==='d') {
+      output = `${parseResult(Calc.startingRate(govChk.current).advice)}`
     }
-    if (gov.function === 'c') {
-      this.output = `${Calc.ongoingRate(gov.current, gov.last, gov.rate).rate} ${parseResult(ongoingRate(gov.current, gov.last, gov.rate).advice)}`
+    if (govChk.function === 'c') {
+      output = `${Calc.ongoingRate(govChk.current, govChk.last, govChk.rate).rate} ${parseResult(Calc.ongoingRate(govChk.current, govChk.last, govChk.rate).advice)}`
     }
     const l = new CalcClass('1.0.0');
-    if (gov.function === 'a') {
-      this.output = `${parseResult(l.startingRate(gov.current).advice)}`
+    if (govChk.function === 'a') {
+      output = `${parseResult(Calc.startingRate(govChk.current).advice)}`
     }
-    if (gov.function === 'b') {
-      this.output = `${l.ongoingRate(gov.current, gov.last, gov.rate).rate} ${parseResult(l.ongoingRate(gov.current, gov.last, gov.rate).advice)}`
+    if (govChk.function === 'b') {
+      output = `${Calc.ongoingRate(govChk.current, govChk.last, govChk.rate).rate} ${parseResult(Calc.ongoingRate(gov.current, gov.last, gov.rate).advice)}`
     }
-    this.result = true;
+    result.value = true;
   } else {
-    this.result = false;
+    result.value = false;
   }
 }
 
