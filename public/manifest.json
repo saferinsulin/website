@@ -1,0 +1,2 @@
+{  "scope": "/",
+  "start_url": "/", "theme_color":"#17DDFB","background_color":"#F5F0D0","icons":[{"purpose":"maskable","sizes":"512x512","src":"icon512_maskable.png","type":"image/png"},{"purpose":"any","sizes":"512x512","src":"icon512_rounded.png","type":"image/png"}],"orientation":"any","display":"standalone","dir":"auto","lang":"en-GB","name":"saferinsulin"}
