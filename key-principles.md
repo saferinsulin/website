@@ -2,7 +2,7 @@
 prev: false
 ---
 
-# Key Principles
+# QRG
 
 - **Avoidance of hypoglycaemia is of paramount importance** as this has been associated with worse outcomes in critically ill patients.
 
