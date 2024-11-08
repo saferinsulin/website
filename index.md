@@ -3,6 +3,6 @@
 layout: home
 
 hero:
-  name: Coming soon
+  name: Coming soon, very soon
 
 
