@@ -6,7 +6,8 @@ hero:
   name: Safer Insulin Education
 
   ---
-  ###Welcome to the education part of saferinsulin.org. 
+  
+  Welcome to the education part of saferinsulin.org  
   Please see the sections below to deepen your knowledge. 
   
 
