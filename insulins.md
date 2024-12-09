@@ -1,15 +1,15 @@
-## Long and short acting insulins in Critical Care
+# Long and short acting insulins in Critical Care
 There are now so many different types of insulin available on the market that keeping up to speed with the names and actions of these drugs is at best hard work and for most of us not working directly in Diabetes medicine, a waste of our attention. Whilst there are many resources out there to educate on the specifics of when and how to give these drugs, in this section I just want to cover some of the pharmacology of these desginer insulins and why it matters to us in Critical Care.  
 So take a moment to do some non-mandatory learning...
 
-### Human insulin
+## Human insulin
 For many decades after the discovery in dogs, the mainstay of treatment for those with type 1 insulin was insulin isolated from the pancreases of cows (bovine) and pigs (porcine). It wasn't until the discovery of recombinent DNA technology that human insulin could be produced by inseting human DNA into bacteria and mass producing insulin that has the same molecular structure to insulin that humans make in their own pancreas.
 
 This insulin is what we commonly called "Human Insulin" and you'll know it as soluble insulin **Humilin S** or **Actrapid**.
 
-So this insulin is exactly the same as the hormone made in your pancreas, should we expect it work like this when we give it to our patients? 
+So if this insulin is exactly the same as the hormone made in your pancreas, should we expect it work like this when we give it to our patients? 
 
-The answer i'm afraid, is **no**!
+The answer, i'm afraid is **no**!
 
 ### It's how we give it that matters
 
@@ -29,6 +29,8 @@ Importantly though the same is true of it's offset when blood glucose falls. The
 
 When we administer insulin intravenously it still works quickly and has a powerful action but as it takes time and is diluted on the way round to the liver, the effects will never be as quick or potent for the same amount of insulin released in the pancreas. We therefore need to give more to have the same effect and the more we give, the more hangs around after we stop.
 
-If blood glucose levels fall and we are fortunate to catch it with our monitoring, there will be a considerable lag before it 
+If blood glucose levels fall and we are fortunate to catch it with our monitoring,even after switching off the infusion there will be a significant amount of insulin circulating for a good while after. This means glucagon release is suppressed despite a falling blood glucose and the liver will continue to remove glucose from the blood.
+
+> **Hypo's on IV insulin develop rapidly and can be life threatening.**
 
 
