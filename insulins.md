@@ -1,2 +1,2 @@
-##Long and short acting insulins in Critical Care
+## Long and short acting insulins in Critical Care
 There are now so many different types of insulin available on the market that keeping up to speed with the names and actions of these drugs is at best hard work and for most of us not working directly in Diabetes medicine, a waste of our attention. Whilst there are many resources out there to educate on the specifics of when and how to give these drugs, in this section I just want to cover some of the pharmacology of these desginer insulins and why it matters to us in Critical Care. So take a moment to do some non-mandatory learning...
