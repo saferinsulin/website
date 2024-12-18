@@ -1,12 +1,23 @@
 # Hypoglycaemia
 
-## Introduction
+In this article i'm going to cover:
+* why hypo's in ICU are so dangerous
+* what we can do to avoid them
+* how to treat them and why we should do it differently in critical care
+* why glucagon is the wrong drug in most cases in ICU
 
-Avoidance of hypoglycaemia is a key priority in patients being treated for hyperglycaemia on critical care. **Hypoglycaemia is associated with a significantly elevated risk of mortality in critically ill patients** and the effect may be related to the severity of the hypoglycaemia.
+[Click here for our unit protocol on managing hypoglycaemia in ICU](https://www.northerncarealliance.nhs.uk/application/files/1117/2200/4200/NCACC034QRG1_V1_Hyperglycaemia_Hypoglycaemia_Critical_Care.pdf)
 
-Hypoglycaemia may be absolute or relative. Patients with pre-existing diabetes with poor control may exhibit cardiovascular, hormonal and neurological changes at low-normal levels. Aggressively targeting a blood glucose in the “normal” range may be harmful in these patients.
+## Hypo's in Critical Care Are Very Dangerous
 
-Minimising hypoglycaemia in Critical Care consists of three aims:
+I will start by stating what must of us know to be true: **Hypoglycaemia is associated with a significantly elevated risk of mortality in critically ill patients**.
+In the worst case scenario a patient having a severe hypo that isn't treated quickly can rapidly develop irreversible brain damage and there are many awful case reports of catastrophic brain injury resulting in patients dying or ending up in a persistent vegetative state, all as a result of insulin therapy given to try to make the glucose "normal". Seems a pretty awful consequence to a treatment that has only limtied benefits...
+
+Even those hypo's that don't result in an obvious neurological injury may have serious consequences, with measurable effects on hormones like cortisol, growth hormone and adrenaline. 
+
+If you've ever looked after or know a person with type 1 diabetes where hypo's are a fact of life, they'll tell you how awful they feel for many hours after a severe hypo. Now imagine that person mounting a response to sepsis, major trauma or surgery, it's not surpising theres a link. 
+
+#### How do we reduce this harm?
 
 1. **Avoidance**
 2. **Treatment**
@@ -14,64 +25,47 @@ Minimising hypoglycaemia in Critical Care consists of three aims:
 
 ## Avoidance of Hypoglycaemia
 
-Monitoring of blood glucose should be **1 hourly** when on an insulin infusion. If blood glucose has been **stable** and between 6 – 10 mmol/L for the last **4 hours**, then **extend to 2 hourly intervals**.
+Low blood sugar occurs for many reasons on ICU. Many hypo's in our audits are due to fasting due to illness or being nil by mouth. The easiest way to avoid these is to ensure patients have some glucose in their IV fluids until their nutrition has been established.
 
-Monitoring frequency should increase to every 30 minutes if blood glucose has dropped below 6.0mmol/L and on an insulin infusion until glucose has been demonstrably stable above 6.0 mmol/L for 2 hours. The insulin infusion should be stopped (as guided by the dynamic calculator) until this is achieved.
+We are most concerned though with hypoglycaemia caused by insulin. 
 
-For patients on 2 hourly monitoring, any period of instability in either the patients’ glucose control or in their general condition should prompt return to one hourly monitoring until stability is regained.
+The main way to avoid this is follow the guidelines on monitoring:
 
-Blood glucose should be monitored at a minimum of every 4 hours when on a long acting subcutaneous insulin regardless of mode of nutrition
+> On IV insulin blood glucose must be checked every 1 hour (2 hourly only when stable)
+>
+> On subcutaneous insulin blood glucose must be checked every 3-4 hours
 
-Minimise interruptions to glucose supply. Any patient receiving enteral feed which is interrupted either deliberately (e.g. for procedures) or unintentionally (e.g. due to tube displacement) should be managed according to the following protocol:
+#### Looming Hypoglycaemia
 
-### Anticipated stop for transfer or procedure
+This is where the blood glucose is still in the normal range but is falling and a hypo is very likely. For this reason we should stop all IV insulin when blood glucose is below 6mmol/l and check again in the next 30 minutes. It would be entirely reasonable to treat with glucose to avoid it falling further. Recoginising it is key.
 
-- Stop insulin 1 hour before
-- Monitor blood glucose every hour as per standard monitoring protocol
 
-### Unanticipated stop _(e.g. NG tube displacement or urgent scan)_
 
-- Stop Variable Rate Insulin Infusion immediately
-- Increase frequency of monitoring to every 30 minutes for 2 hours.
+### No Feed No Need!
 
-### Feed stopped for > 2 hours
-
-- Stop Variable Rate Insulin Infusion
-- Consider prescription of 10% glucose infusion at 50 mls/hr
+- Most of our patients on IV insulin will be on enteral feed or TPN. If this is stopped, for example when nil by mouth for surgery or unexpectedly because the tube is displaced or a check XR requested, the safest thing to do is to stop the insulin and keep checking blood glucose frequently. The risk of a hypo continues for many hours after the infusion is stopped. It is reasonable to
 
 ## Treatment of Hypoglycaemia
 
-Management of an episode of hypoglycaemia in Critical Care should be according to a treatment protocol that is weighted differently to ward areas. This reflects the patient population being less likely to be conscious and able to report hypoglycaemia symptoms and the likelihood of central venous access making the use of 50% glucose safe and more practical. Management involves the selection of an appropriate glucose preparation, administration, subsequent monitoring and repeated administration as necessary: [see algorithm below](#algorithm).
+Follow the algorithm for to treat hypoglycaemia. You may notice that the emphaiss in our protocol is on using 50% glucose as first line rather than oral glucose tablets or glucagon. This is because our patients are much more likely to to have central or peripheral venous access and this is the quickest way to treat the hypo. All our hypo treatments are in the hypo boxes on the unit to speed up treatment. 
 
-::: danger Hypoglycaemic Emergency
-Treatment should be initiated **as a clinical emergency** if blood glucose < 4.0mmol/L – remember "Four is the Floor"
-:::
+A patient on a medical ward on long-acting insulin who becomes hypoglycaemic will often develop symptoms that will alert us to a hypo. If they're able to take glucose tablets and don't have IV access, the quickest and safest way to treat the hypo may be orange juice, glucose tablets or glucogel.
 
-- **Stop insulin infusion**
+A patient on ICU who is sedated on a ventilator will show no signs of hypoglycaemia and if on IV insulin will require rapid treatment. They will almost certainly have a central or peripheral line and therefore the quickest and safest way to treat them will be with IV glucose.
 
-- If central access present: administer **50ml of 50% glucose** via CVC or PICC line over 10 minutes followed by a 0.9% saline flush.
+##### How much glucose?
 
-- If no central access present: administer **250ml of 10% glucose** via peripheral cannula over 15 minutes.
+* 50ml of 50% glucose 
+* 250ml of 10% glucose
 
-- For patients suitable for stepdown to a general ward or with a normally functioning enteral route it is also appropriate to use the ward-based hypoglycaemia algorithm.
+Both of these doses contain 25g of glucose which is equal 5 teaspoons. 
 
-- **Recheck blood glucose** at 15, 30 and 60 minutes or until > 4.0 mmol/L — repeated doses of glucose may be required.
+An _average adult only has about 50g of glucose dissolved in their entire blood volume***_ so this may well result in rebound hyperglycaemia. This will almost certainly by transient but will at least reduce the risk of a further hypo from the ongoing effects of circulating insulin. 
 
-## Learning from Hypoglycaemia
+***this is pretty incredible, the human body is able to tightly regulate the amount of glucose in the blood to within 1/2 and 1 teaspoon, even after a massive meal!
 
-It should be recognised that hypoglycaemia is a common and sometimes unavoidable side effect of glucose management in Critical Care. The causes of hypoglycaemia are often multifactorial and steps should be taken to minimise further episodes where possible.
+## Why Glucagon Is ALmost Aways the Wrong Drug for Treating Hypo's on ICU
 
-The use of incident reporting for episodes of hypoglycaemia is encouraged to allow learning from these events.
-
-::: info Patients at High Risk of Hypoglycaemia
-
-1. Interruptions in glucose supply – such as NG feeding / tube displacement.
-2. Type 1 diabetes or those deemed insulin sensitive.
-3. Use of basal insulins especially in those with hepatic or renal impairment
-4. Injecting insulin into the arm
-5. Mismatch of meal-time insulin to meals
-6. Long-acting sulphonylurea agents
-7. History of hypoglycaemia unawareness
 
 :::
 
