@@ -1,6 +1,6 @@
 # Hypoglycaemia
 
-In this article i'm going to cover:
+In this article I'm going to cover:
 * why hypo's in ICU are so dangerous
 * what we can do to avoid them
 * how to treat them and why we should do it differently in critical care
@@ -10,12 +10,13 @@ In this article i'm going to cover:
 
 ## Hypo's in Critical Care Are Very Dangerous
 
-I will start by stating what must of us know to be true: **Hypoglycaemia is associated with a significantly elevated risk of mortality in critically ill patients**.
-In the worst case scenario a patient having a severe hypo that isn't treated quickly can rapidly develop irreversible brain damage and there are many awful case reports of catastrophic brain injury resulting in patients dying or ending up in a persistent vegetative state, all as a result of insulin therapy given to try to make the glucose "normal". Seems a pretty awful consequence to a treatment that has only limtied benefits...
+I will start by stating what I hope by now must of us know to be true: **Hypoglycaemia is associated with a significantly elevated risk of mortality in critically ill patients**.
+
+In the worst case scenario a patient having a severe hypo that isn't treated quickly can rapidly develop irreversible brain damage and there are many awful case reports of catastrophic brain injury resulting in patients dying or ending up in a persistent vegetative states, all as a result of insulin therapy given to try to make the glucose "normal". Seems a pretty awful consequence to a treatment that has only limited benefits...
 
 Even those hypo's that don't result in an obvious neurological injury may have serious consequences, with measurable effects on hormones like cortisol, growth hormone and adrenaline. 
 
-If you've ever looked after or know a person with type 1 diabetes where hypo's are a fact of life, they'll tell you how awful they feel for many hours after a severe hypo. Now imagine that person mounting a response to sepsis, major trauma or surgery, it's not surpising theres a link. 
+If you've ever looked after or know a person with type 1 diabetes where hypo's are a fact of life, they'll tell you how awful they feel for many hours after a severe hypo. Now imagine that person mounting a response to sepsis, major trauma or surgery, it's not surpising studies have shown a correlation between hypoglycaemic episodes and the risk of mortality from critical illness.  
 
 #### How do we reduce this harm?
 
@@ -25,7 +26,19 @@ If you've ever looked after or know a person with type 1 diabetes where hypo's a
 
 ## Avoidance of Hypoglycaemia
 
-Low blood sugar occurs for many reasons on ICU. Many hypo's in our audits are due to fasting due to illness or being nil by mouth. The easiest way to avoid these is to ensure patients have some glucose in their IV fluids until their nutrition has been established.
+Low blood sugar occurs for many reasons on ICU. When we audit hypo's we see the same risk factors everytime:
+
+* not monitoring blood glucose frequently enough
+* feed or IV glucose interruptions
+* fasting
+* reestablishing or starting long acting (or mixed) insulins 
+
+
+##### Fasting due to illness or being nil by mout
+
+The easiest way to avoid these is to ensure patients have some glucose in their IV fluids until their nutrition has been established. If in doubt start glucose 10% or 4% with NaCl. 
+
+#### Iatrogenic hypoglycaemia 
 
 We are most concerned though with hypoglycaemia caused by insulin. 
 
@@ -38,7 +51,6 @@ The main way to avoid this is follow the guidelines on monitoring:
 #### Looming Hypoglycaemia
 
 This is where the blood glucose is still in the normal range but is falling and a hypo is very likely. For this reason we should stop all IV insulin when blood glucose is below 6mmol/l and check again in the next 30 minutes. It would be entirely reasonable to treat with glucose to avoid it falling further. Recoginising it is key.
-
 
 
 ### No Feed No Need!
@@ -64,7 +76,30 @@ An _average adult only has about 50g of glucose dissolved in their entire blood 
 
 ***this is pretty incredible, the human body is able to tightly regulate the amount of glucose in the blood to within 1/2 and 1 teaspoon, even after a massive meal!
 
-## Why Glucagon Is ALmost Aways the Wrong Drug for Treating Hypo's on ICU
+## Why Glucagon Is Almost Aways the Wrong Drug for Treating Hypo's on ICU
+
+We commonly see glucagon given for severe hypo's in ICU, whilst this may be the drug of choice for severe hypoglycaemia in the community or even the ward, it's rarely the best option in ICU.
+
+### What is glucagon?
+
+Glucagon is the hormone produced in the pancreas that acts in the opposite way to insulin. It has a few key actions:
+* it **stops insulin being produced** by the beta cells (glucagon is made in the alpha cells just next door)
+*  it goes straight to the liver and causes glycogen to break down to glucose **raising blood glucose** 
+* it causes flushing, tachycardia and high blood pressurem (great for beta blocker overdose, not if you're awake)
+
+### How is it given?
+
+Unlike insulin that comes as a ready made injection, glucagon must be reconstituted from powder and injected intramuscularly. This takes time to prepare and it's actions take a few minutes to kick in
+
+### Why is it not great in critical care?
+
+Whilst it may work in some patients, I really feel it is a drug of last resort for treating hypoglycaemia in critical care. This is because
+
+* it **takes time** to prepare and give and will never be as quick to act as IV glucose
+* most of our patients have IV access making **IV glucose is quicker and more effective**
+* 6 glucose tablets down the NG will probably work just as well
+* critically ill patients often have very limited glycogen stores due to fasting and the stress response to illness means they may have used up all of their reserves. Glygoen break down will have been maxed out by their critical illness so **glucagon will simply not work as effectively or quickly as in health**. 
+
 
 
 :::
