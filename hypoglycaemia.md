@@ -98,7 +98,7 @@ Unlike insulin that comes as a ready made injection, glucagon must be reconstitu
 Whilst it may work in some patients, I really feel it is a drug of last resort for treating hypoglycaemia in critical care. This is because
 
 * it **takes time** to prepare and give and will never be as quick to act as IV glucose
-* most of our patients have IV access making **IV glucose is quicker and more effective**
+* most of our patients have IV access so **IV glucose is quicker and more effective**
 * 6 glucose tablets down the NG will probably work just as well
 * critically ill patients often have very limited glycogen stores due to fasting and the stress response to illness means they may have used up all of their reserves. Glygoen break down will have been maxed out by their critical illness so **glucagon will simply not work as effectively or quickly as in health**.
 
