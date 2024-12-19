@@ -22,7 +22,7 @@ If you've ever looked after or know a person with type 1 diabetes where hypo's a
 
 1. **Avoidance**
 2. **Treatment**
-3. **Learning** from Hypoglycaemia.
+3. **Learning**
 
 ## Avoidance of Hypoglycaemia
 
@@ -31,7 +31,9 @@ Low blood sugar occurs for many reasons on ICU. When we audit hypo's we see the 
 * not monitoring blood glucose frequently enough
 * feed or IV glucose interruptions
 * fasting
-* reestablishing or starting long acting (or mixed) insulins 
+* reestablishing or starting long acting (or mixed) insulins
+* recent hypoglycaemia episodes
+* large doses of IV or subcutaneous insulin 
 
 
 ##### Fasting due to illness or being nil by mout
@@ -59,7 +61,7 @@ This is where the blood glucose is still in the normal range but is falling and 
 
 ## Treatment of Hypoglycaemia
 
-Follow the algorithm for to treat hypoglycaemia. You may notice that the emphaiss in our protocol is on using 50% glucose as first line rather than oral glucose tablets or glucagon. This is because our patients are much more likely to to have central or peripheral venous access and this is the quickest way to treat the hypo. All our hypo treatments are in the hypo boxes on the unit to speed up treatment. 
+Follow the algorithm for to treat hypoglycaemia. You may notice that the emphasis in our protocol is on using 50% glucose as first line rather than oral glucose tablets or glucagon. This is because our patients are much more likely to to have central or peripheral venous access and this is the quickest way to treat the hypo. All our hypo treatments are in the hypo boxes on the unit to speed up treatment. 
 
 A patient on a medical ward on long-acting insulin who becomes hypoglycaemic will often develop symptoms that will alert us to a hypo. If they're able to take glucose tablets and don't have IV access, the quickest and safest way to treat the hypo may be orange juice, glucose tablets or glucogel.
 
@@ -85,7 +87,7 @@ We commonly see glucagon given for severe hypo's in ICU, whilst this may be the 
 Glucagon is the hormone produced in the pancreas that acts in the opposite way to insulin. It has a few key actions:
 * it **stops insulin being produced** by the beta cells (glucagon is made in the alpha cells just next door)
 *  it goes straight to the liver and causes glycogen to break down to glucose **raising blood glucose** 
-* it causes flushing, tachycardia and high blood pressurem (great for beta blocker overdose, not if you're awake)
+* it causes flushing, tachycardia and high blood pressure (great for beta blocker overdose, not if you're awake)
 
 ### How is it given?
 
@@ -98,12 +100,19 @@ Whilst it may work in some patients, I really feel it is a drug of last resort f
 * it **takes time** to prepare and give and will never be as quick to act as IV glucose
 * most of our patients have IV access making **IV glucose is quicker and more effective**
 * 6 glucose tablets down the NG will probably work just as well
-* critically ill patients often have very limited glycogen stores due to fasting and the stress response to illness means they may have used up all of their reserves. Glygoen break down will have been maxed out by their critical illness so **glucagon will simply not work as effectively or quickly as in health**. 
+* critically ill patients often have very limited glycogen stores due to fasting and the stress response to illness means they may have used up all of their reserves. Glygoen break down will have been maxed out by their critical illness so **glucagon will simply not work as effectively or quickly as in health**.
+
+### So what should we use instead?
+
+See the [link here for our hypoglycaemia QRG](https://www.northerncarealliance.nhs.uk/application/files/1117/2200/4200/NCACC034QRG1_V1_Hyperglycaemia_Hypoglycaemia_Critical_Care.pdf) - you'll see that glucagon is the last resort when treating a hypo on ICU.
+
+> 4 is the Floor!
+>
+> For hypoglycaemia (or looming hypoglycaemia) give IV glucose as quickly as possible, when no IV route is available go for tablets or orange juice (orally or down the feeding tube).
+>
+> If neither of those is possible immediately _then_ go for glucogel and glucagon.
+>
+> 
 
 
 
-:::
-
-## Algorithm
-
-<iframe src="/hypoglycaemia.pdf#toolbar=0&navpanes=0" width="100%" height="830px"></iframe>
