@@ -31,6 +31,8 @@ When we administer insulin intravenously it still works quickly and has a powerf
 
 If blood glucose levels fall and we are fortunate to catch it with our monitoring,even after switching off the infusion there will be a significant amount of insulin circulating for a good while after. This means glucagon release is suppressed despite a falling blood glucose and the liver will continue to remove glucose from the blood.
 
+![Test Images](/test.png)
+
 > **Hypo's on IV insulin develop rapidly and can be life threatening.**
 
 
