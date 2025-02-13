@@ -5,7 +5,7 @@ layout: home
 hero:
   name: Safer Insulin Education
 
-  ---
+---
   
   Welcome to the education part of saferinsulin.org  
 
