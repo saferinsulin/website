@@ -11,7 +11,7 @@ export default defineConfig({
       { text: 'Guidelines', link: '/' },
       { text: 'Calculator', link: 'https://saferinsulin.org' },
     ],
-
+    // this is the sidebar section
     sidebar: [
       {
         text: 'Glucose Control',
@@ -22,6 +22,7 @@ export default defineConfig({
           { text: 'Hyperglycaemia', link: '/hyperglycaemia' },
           { text: 'Hypoglycaemia', link: '/hypoglycaemia' },
           { text: 'Basal Insulin', link: '/basal' },
+          { text: 'Insulins', link: '/insulins' },
           { text: 'Drugs', link: '/drugs' },
           // { text: 'COVID-19', link: '/covid' },
         ],
