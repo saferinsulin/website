@@ -14,20 +14,25 @@ hero:
 *Why hypoglycaemia is bad for our patients and why we need to treat them differently in critical care*
 
 
+
 ## Know your Insulins!
 *Why knowing just a little bit more about designer insulins makes you a better intensivist*
+
 
 
 ## Metformin - the Philosopher's Stone
 *How metformin is safe and useful in ICU for controlling glucose, how to use it and why it might make you live longer!*
 
 
+
 ## The Goldilock's Zone for Glucose
 *What exaclty is the right glucose to aim for in Critical Care? How can we safely achieve this?*
 
 
+
 ## No Feed? No Need!
 *Why it's so important to consider nutrition when using insulin in ICU*
+
 
 ***
 
