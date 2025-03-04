@@ -7,7 +7,6 @@ hero:
 
 ---
 
-
 # The 5 Pillars of Managing Glucose Safely in Intensive Care
 
 ## [Hypoglycaemia - we do things differently here](/hypoglycaemia.md)
