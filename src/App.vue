@@ -16,6 +16,7 @@
     <GovernanceTab v-if="activeIndex === 1" />
     <ResourcesTab v-if="activeIndex === 2" />
   </SuiContainer>
+  <div class="footer-spacer"></div>
   <Footer />
 </template>
 <script>
@@ -41,4 +42,8 @@ export default {
   },
 }
 </script>
-
+<style scoped>
+.footer-spacer {
+  height: 60px;
+}
+</style>
