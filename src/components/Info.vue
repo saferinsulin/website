@@ -2,15 +2,14 @@
   <!-- <SuiButton @click="show = true">Show Modal</SuiButton> -->
   <SuiModal v-model="show" @update:modelValue="(e) => $emit('update:modelValue', e)">
     <SuiModalHeader>About this tool</SuiModalHeader>
-    <SuiModalContent>
-      <div class="scrolling content">
-        <p>v2.0.0
+    <SuiModalContent scrolling>
+        <p>v2.0.1
           <br />
           <small>Last build:
             {{ buildDateFromScript }}
           </small>
         </p>
-        <p>&copy; Dr JP Lomas & Dr Rhodri Harris, 2019-2024</p>
+        <p>&copy; Dr JP Lomas & Dr Rhodri Harris, 2019-2025</p>
         <a href="https://lomas.doctor">https://lomas.doctor</a><br>
         <a href="https://github.com/saferinsulin">Full source code on Github</a>
         <br><br>
@@ -50,7 +49,6 @@
         LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
         OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
         SOFTWARE.
-      </div>
     </SuiModalContent>
     <SuiModalActions>
       <div @click="$emit('update:modelValue', false)" class=" ui ok button">
