@@ -22,7 +22,7 @@
       <div class="ui secondary segment">
         <p>Current blood glucose [mmol/L]: <strong>{{ gov.current }}</strong></p>
         <p v-if="gov.last">Previous blood glucose [mmol/L]: <strong>{{ gov.last }}</strong></p>
-        <p v-if="gov.rate">Current Insulin rate [ml/hr of 1 iU/ml]: <strong>{{ gov.rate }}</strong></p>
+        <p v-if="gov.rate !== null">Current Insulin rate [ml/hr of 1 iU/ml]: <strong>{{ gov.rate }}</strong></p>
       </div>
       <p>For these values, the calculator generated the following output:</p>
       <div class="ui secondary segment">

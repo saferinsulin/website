@@ -1,5 +1,5 @@
 <template>
-  <SuiMessage @click="toggleModel" class="ui fixed bottom sticky inverted message">© 2019-2024 JP Lomas &amp; R
+  <SuiMessage @click="toggleModel" class="ui fixed bottom sticky inverted message">© 2019-2025 JP Lomas &amp; R
     Harris <i class="info icon"></i></SuiMessage>
   <Info v-model="show" />
 </template>

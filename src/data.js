@@ -1,6 +1,6 @@
 const glucoseValues = [];
 
-for (let i = 0; i < 501; i++) {
+for (let i = 31; i < 501; i++) {
   const t = (i/10).toFixed(1).toString();
   const v = i/10;
   glucoseValues.push({ text: t, value: v });
