@@ -14,7 +14,7 @@
     "test": "start-server-and-test dev http-get://localhost:5173 cy:run-e2e"
   },
   "dependencies": {
-    "@saferinsulin/core": "2.0.0",
+    "@saferinsulin/core": "^2.0.1",
     "fomantic-ui-css": "^2.9.3",
     "vue": "^3.4.21",
     "vue-fomantic-ui": "^0.26.2"
