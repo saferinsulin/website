@@ -5,7 +5,7 @@ layout: home
 hero:
   name: Safer Insulin Education
   image:
-  src: /logo.png
+  src: /logo.jpg
 
 markdownStyles: false
 
