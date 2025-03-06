@@ -11,15 +11,21 @@ Rather than repeat that here, this will be an overview of what makes designer in
 ## Human insulin
 
 
-For many decades after the discoveryof insulin in dogs by Banting and Best, the mainstay of treatment for those with type 1 insulin was insulin isolated from the pancreases of cows (bovine) and pigs (porcine). It wasn't until the discovery of recombinent DNA technology that human insulin could be produced by inseting human DNA into bacteria and mass producing insulin that has the same molecular structure to insulin that humans make in their own pancreas.
+For many decades after the isolation of insulin in dogs by Banting and Best, the mainstay of treatment for those with type 1 insulin was insulin isolated from the pancreases of cows (bovine) and pigs (porcine). This animal insulin caused loads of problems at the site of injection with skin reactions and immune reactions to the insulin itself. It wasn't until the discovery of recombinent DNA technology that human insulin could be produced by inserting human DNA into bacteria and mass producing insulin that has the same molecular structure to insulin that humans make in their own pancreas.
+
 
 This insulin is what we commonly called "Human Insulin" and you'll know it as soluble insulin **Humilin S** or **Actrapid**.
 
-So if this insulin is exactly the same as the hormone made in your pancreas, should we expect it work like this when we give it to our patients? 
+So Actrapid and Humilin S are exactly the same molecule as the insulin made in a healthy human pancreas. They act in the same way on cells in the body, increasing the uptake of glucose into muscle (and liver) and stopping the production of glucose by the liver. 
 
-The answer, i'm afraid is **no**!
+So if it's the same molecule and it acts in the same way why do we need to change it? Surely it'll work just the same when we inject it?
 
-### It's how we give it that matters
+
+Unfortunately not...
+
+
+## It's how we give it that matters
+
 
 #### From the Pancreas
 
