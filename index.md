@@ -10,6 +10,7 @@ features:
   - icon: 🤕
     title: Hypoglycaemia
     details: Why hypoglycaemia is bad for our patients and why we need to treat them differently in critical care
+    link: /hypoglycaemia.md
 ---
 
 # The 5 Pillars of Managing Glucose Safely in Intensive Care
