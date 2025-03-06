@@ -4,6 +4,7 @@ layout: home
 
 hero:
   name: Safer Insulin Education
+
 markdownStyles: false
 
 features:
@@ -11,29 +12,27 @@ features:
     title: Hypoglycaemia
     details: Why hypoglycaemia is bad for our patients and why we need to treat them differently in critical care
     link: /hypoglycaemia.md
+  - icon: 💉
+    title: Know your Insulins!
+    details: Why knowing just a little bit more about designer insulins makes you a better intensivist
+    link: /insulins.md
+  - icon: 💊
+    title: Metformin - the Philosopher's Stone
+    details: How metformin is safe and useful in ICU for controlling glucose, how to use it and why it might make you live longer!
+    link:
+    - icon: 📈
+    title: The Goldilock's Zone for Glucose
+    details: What exaclty is the right glucose to aim for in Critical Care? How can we safely achieve this?
+    link: 
+  - icon: 🌮
+    title: No Feed? No Need!
+    details: 
+    link:
+  - icon: 📋
+    title: Drugs
+    details: A list of commonly used diabetes medications and how their use may be impacted by critical illness
+    link: /drugs.md
 ---
-
-# The 5 Pillars of Managing Glucose Safely in Intensive Care
-
-## [Hypoglycaemia](/hypoglycaemia.md)
-*Why hypoglycaemia is bad for our patients and why we need to treat them differently in critical care*
-
-
-## Know your Insulins!
-*Why knowing just a little bit more about designer insulins makes you a better intensivist*
-
-
-## Metformin - the Philosopher's Stone
-*How metformin is safe and useful in ICU for controlling glucose, how to use it and why it might make you live longer!*
-
-
-## The Goldilock's Zone for Glucose
-*What exaclty is the right glucose to aim for in Critical Care? How can we safely achieve this?*
-
-
-## No Feed? No Need!
-*Why it's so important to consider nutrition when using insulin in ICU*
-
 
 ***
 
