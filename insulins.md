@@ -68,3 +68,26 @@ Glucagon made in the pancreas in response to falling glucose levels cannot suppr
 > **A patient on IV insulin must have their blood glucose checked every hour**
 
 
+#### Into the Skin
+
+Whilst we use soluble insulin (humilin S and actrapid) intravenously on hsopital patients, all the other insulins out there are made for subcutaneous injection. 
+
+The problem with soluble insulin is that when injected under the skin the insulin molecules bind into hexamers (that's 6 molecules of insulin) each bound around a zinc molcule. These hexamers break down slowly (over a few hours) which means you get a peak after about an hour and they last for about 4 hours.
+
+
+All the efforts from pharmaceutical companies over the years has been to make insulins that are either absorbed much faster (so that people with diabetes can match them up with their meals to avoid glucose spikes) or slow it right down (to provide a basal insulin that mimics what the pancreas does in health)
+
+
+> **Boluses of actrapid or humilin S are far slower at controlling hyperglycaemia and much less predictable than IV insulin. In critical care it's *probably* much safer to use a VRII than correction doses**
+
+
+## Short Acting Insulins
+
+So, why don't we use on the fancy new rapid, short acting insulins as correction doses?
+
+Good question. Lets look at one of the fastest as an example. FIASP. 
+
+
+
+
+
