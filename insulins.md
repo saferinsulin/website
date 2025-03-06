@@ -14,6 +14,7 @@ First it's important to ask the quesiton, why do we need them all in the first p
 
 ## Human insulin
 
+![Banting & Best after their isolation of insulin](Banting&Best.jpg)
 
 For many decades after the isolation of insulin in dogs by Banting and Best, the mainstay of treatment for those with type 1 insulin was insulin isolated from the pancreases of cows (bovine) and pigs (porcine). This animal insulin caused loads of problems at the site of injection with skin reactions and immune reactions to the insulin itself. It wasn't until the discovery of recombinent DNA technology that human insulin could be produced by inserting human DNA into bacteria and mass producing insulin that has the same molecular structure to insulin that humans make in their own pancreas.
 
@@ -88,6 +89,14 @@ So, why don't we use on the fancy new rapid, short acting insulins as correction
 To answer this question, lets look at one of the fastest on the market as an example. 
 
 Fiasp is a relatively new "ultra-fast acting" designer insulin. 
+
+![Insulin Aspart](Aspart.jpeg)
+
+*Insulin Aspart* is the human insulin molecule with one amino acid (proline) replaced with aspartate - "aspart". Much like soluble human insulin this is then mixed with zinc. This is sold in the UK as Novorapid.
+
+
+
+
 
 
 
