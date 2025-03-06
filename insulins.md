@@ -94,7 +94,23 @@ Fiasp is a relatively new "ultra-fast acting" designer insulin.
 
 *Insulin Aspart* is the human insulin molecule with one amino acid (proline) replaced with aspartate - "aspart". Much like soluble human insulin this is then mixed with zinc. This is sold in the UK as Novorapid.
 
+This small change in structure means the insulin hexamers are much less stable and they dissolve into the blood more quickly.
 
+This process is sped up by mixing insulin aspart with nicotinamide (vitamin B3) which makes the hexamers even more unstable. The end result is FIASP, an ultra fast acting insulin that starts working within 10-15 minutes of injection. 
+
+
+This is fantastic for people who want a fast acting insulin to control glucose after eating. However all these pharmacokintetic models have been based on healthy volunteers.
+
+Patiens who are critically ill can:
+- be shocked with poor peripheral perfusion
+- be on vasopressors which cause vasoconstriction
+- have significant tissue oedema
+- have marked acid-base disorders
+- exist in inflammatory states with vasodilation
+...all of which can have an unpredictable effect on absorbtion of subcutaneous medications like insulin. This means that the usual predictions of "take 1 unit for every 10grams of carbohydrate can be completely innacurate. For this reason we feel it is sensible to avoid using these medications in the acute phase of critical illness. They could be restarted later after the above risk factors have improved.
+
+
+> **There are many aspects of critical illness that may affect the subcutaneous absorbtion of insulins and caution must be taken when prescribing short acting insulins for control of hyperglycaemia. It is likely safer to use a VRII until critical illness has resolved.**
 
 
 
