@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: Safer Insulin Education
-
+markdownStyles: false
 ---
 
 # The 5 Pillars of Managing Glucose Safely in Intensive Care
