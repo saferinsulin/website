@@ -85,7 +85,9 @@ All the efforts from pharmaceutical companies over the years has been to make in
 
 So, why don't we use on the fancy new rapid, short acting insulins as correction doses?
 
-Good question. Lets look at one of the fastest as an example. FIASP. 
+To answer this question, lets look at one of the fastest on the market as an example. 
+
+Fiasp is a relatively new "ultra-fast acting" designer insulin. 
 
 
 
