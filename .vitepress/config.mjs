@@ -14,7 +14,7 @@ export default defineConfig({
     // this is the sidebar section
     sidebar: [
       {
-        text: 'Glucose Control',
+        text: 'Safer Insulin in Critical Care',
         link: '/',
         items: [
           { text: 'Guidelines and QRG', link: 'https://www.northerncarealliance.nhs.uk/our-policy-hub?open=55908' },
