@@ -17,7 +17,7 @@ export default defineConfig({
         text: 'Glucose Control',
         link: '/',
         items: [
-          { text: 'Guidelines and QRG', link: '/guidelines' },
+          { text: 'Guidelines and QRG', link: 'https://www.northerncarealliance.nhs.uk/our-policy-hub?open=55908' },
           { text: 'Hypoglycaemia', link: '/hypoglycaemia' },
           { text: 'Insulins', link: '/insulins' },
           { text: 'Metformin', link: '/metformin' },
