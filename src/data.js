@@ -7,7 +7,7 @@ for (let i = 0; i < 501; i++) {
 }
 
 const insulinRates = [];
-for (let i = 0; i < 151; i++) {
+for (let i = 0; i < 181; i++) {
   const t = (i/10).toFixed(1).toString();
   const v = i/10;
   insulinRates.push({ text: t, value: v });
